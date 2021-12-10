@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+    <LinearLayout
+        android:id="@+id/form_scroll_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessParent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <!--Consumer name-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/kseb_title_action_bar"
+                    android:textSize="25sp"
+                    android:textStyle="bold"/>
+                <AutoCompleteTextView
+                    android:id="@+id/consumer_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="7dp"
+                    android:focusableInTouchMode="true"
+                    android:hint="@string/consumer_name"
+                    android:imeOptions="actionNext"/>
+                <TextView
+                    android:id="@+id/name_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:textColor="@color/google_blue"/>
+                <!--Mobile number-->
+                <AutoCompleteTextView
+                    android:id="@+id/mobile_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/mobile_no"
+                    android:imeOptions="actionNext"
+                    android:inputType="number"
+                    android:maxLength="10" />
+
+                <TextView
+                    android:id="@+id/mobile_no_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:textColor="@color/google_blue"/>
+                <!--Consumer number-->
+                <AutoCompleteTextView
+                    android:id="@+id/consumer_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/consumer_no"
+                    android:imeOptions="actionNext"
+                    android:inputType="number"
+                    android:maxLength="16"/>
+                <TextView
+                    android:id="@+id/consumer_no_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:textColor="@color/google_blue"/>
+
+                <LinearLayout
+                    android:id="@+id/lnr_lyt_select_section"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/txt_section_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/select_section_name"
+                        android:textSize="20sp"
+                         />
+                </LinearLayout>
+                <!--Bill no-->
+                <AutoCompleteTextView
+                    android:id="@+id/bill_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/bill_no"
+                    android:imeOptions="actionNext"/>
+                <TextView
+                    android:id="@+id/bill_no_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:textColor="@color/google_blue"/>
+                <!--Amount-->
+                <AutoCompleteTextView
+                    android:id="@+id/amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/ensure_correct_bill_amt"
+                    android:imeOptions="actionDone"
+                    android:inputType="phone"/>
+                <TextView
+                    android:id="@+id/amount_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:textColor="@color/google_blue"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/account_no"/>
+                <Spinner
+                    android:id="@+id/account_number_selector_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:popupBackground="#cccccc"
+                    android:spinnerMode="dialog"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp"
+                    android:paddingTop="10dp">
+
+                    <Button
+                        android:id="@+id/clear_all"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="4dp"
+                        android:layout_marginRight="4dp"
+                        android:layout_weight="1"
+                        android:background="@color/blue_variant2"
+                        android:text="@string/clear_all"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        tools:ignore="ButtonStyle" />
+
+                    <Button
+                        android:id="@+id/proceedToPay"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginStart="4dp"
+                        android:layout_weight="1"
+                        android:background="@color/blue_variant2"
+                        android:text="@string/proceed_to_pay"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        tools:ignore="ButtonStyle" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/view_data"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include layout="@layout/view_kseb_user_data_for_check" />
+    </FrameLayout>
+</LinearLayout>

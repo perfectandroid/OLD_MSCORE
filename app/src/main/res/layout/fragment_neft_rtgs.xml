@@ -1,0 +1,260 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lnear_impes_rtgs_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.creativethoughts.iscore.neftrtgs.NeftRtgsFragment">
+    <LinearLayout
+        android:id="@+id/rgts_neft_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="9dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_neft_rtgs_clear"
+            style="null"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="9dp"
+            android:layout_weight="1"
+            android:background="@drawable/custom_submit_button"
+            android:text="@string/clear"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btn_neft_rtgs_submit"
+            style="null"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="9dp"
+            android:layout_weight="1"
+            android:background="@drawable/custom_submit_button"
+            android:text="@string/submit"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/rgts_neft_footer"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txt_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="@string/neft_rtgs"
+            android:textColor="@color/blue_variant1"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:id="@+id/scroll_view_rtgs_neft"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessParent" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp">
+                <LinearLayout
+                    android:visibility="gone"
+                    android:id="@+id/select_mode_area"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:baselineAligned="false">
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+                        <Button
+                            android:id="@+id/btn_mode_rtgs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:background="@drawable/custom_rtgs_mode_button"
+                            android:text="@string/rtgs"
+                            android:textColor="@color/white" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+                        <Button
+                            android:id="@+id/btn_mode_neft"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:background="@drawable/custom_neft_mode_button"
+                            android:text="@string/neft"
+                            android:textColor="@color/white"
+                            />
+                    </RelativeLayout>
+                </LinearLayout>
+                <TextView
+
+                    android:id="@+id/txtViewSelectAcNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/select_mode_area"
+                    android:text="@string/select_acc_no" />
+
+                <Spinner
+                    android:id="@+id/spinner_neft_rtgs_acc_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtViewSelectAcNo"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:padding="10dp" />
+
+                <TextView
+                    android:visibility="gone"
+                    android:id="@+id/txt_view__neft_rtgs_choose_benefeciary"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/spinner_neft_rtgs_acc_no"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/choose_beneficiary"
+                    android:textColor="@color/google_blue"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/txtViewBenificiaryName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txt_view__neft_rtgs_choose_benefeciary"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/beneficiary_name" />
+
+                <EditText
+                    android:id="@+id/edt_txt_neft_rtgs_benificiary_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtViewBenificiaryName"
+                    android:layout_marginTop="9dp"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:hint="@string/beneficiary_name"
+                    android:inputType="text"
+                    android:maxLength="50"
+                    android:padding="10dp" />
+
+                <TextView
+                    android:id="@+id/txtViewBenificiaryAccNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/edt_txt_neft_rtgs_benificiary_name"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/beneficiary_acc_no" />
+
+                <EditText
+                    android:id="@+id/edt_txt_neft_rtgs_benificiary_acc_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtViewBenificiaryAccNo"
+                    android:layout_marginTop="9dp"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:hint="@string/beneficiary_acc_no"
+                    android:inputType="text"
+                    android:padding="10dp" />
+
+                <TextView
+                    android:id="@+id/txtViewConfirmBenificiaryAccNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/edt_txt_neft_rtgs_benificiary_acc_no"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/beneficiary_confirm_account" />
+
+                <EditText
+                    android:id="@+id/edt_txt_neft_rtgs_confirm_benificiary_acc_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtViewConfirmBenificiaryAccNo"
+                    android:layout_marginTop="9dp"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:hint="@string/beneficiary_confirm_account"
+                    android:inputType="text"
+                    android:padding="10dp" />
+
+                <TextView
+                    android:id="@+id/txtViewIfscCode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/edt_txt_neft_rtgs_confirm_benificiary_acc_no"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/ifsc_code" />
+
+                <EditText
+                    android:id="@+id/edt_txt_neft_rtgs_ifsc_code"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtViewIfscCode"
+                    android:layout_marginTop="9dp"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:hint="@string/ifsc_code"
+                    android:inputType="text"
+                    android:maxLength="11"
+                    android:padding="10dp" />
+                <CheckBox
+                    android:id="@+id/chk_save_ben"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="9dp"
+                    android:buttonTint="@color/google_blue"
+                    android:textColor="@color/google_blue"
+                    android:layout_below="@id/edt_txt_neft_rtgs_ifsc_code"
+                    android:text="@string/save_ben"/>
+                <TextView
+                    android:id="@+id/txtViewAmount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/chk_save_ben"
+                    android:layout_marginTop="9dp"
+                    android:text="@string/amount"/>
+                <EditText
+                    android:id="@+id/edt_txt_neft_rtgs_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txtViewAmount"
+                    android:layout_marginTop="9dp"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:hint="@string/amount"
+                    android:inputType="number"
+                    android:padding="10dp" />
+
+
+
+            </RelativeLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+   <!-- <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rgts_neft_footer"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="86dp"
+        android:layout_marginRight="86dp"
+        android:text="CheckBox" />
+-->
+
+</RelativeLayout>

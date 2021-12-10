@@ -1,0 +1,192 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_variant1"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/spnAccountNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:popupBackground="#cccccc"
+        android:spinnerMode="dialog"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/slate"
+            android:orientation="vertical"
+            android:padding="8dp" >
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/transparent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:background="@android:color/transparent"
+                    android:text="@string/account_type"
+                    android:textColor="@color/black_75_per"
+                    android:textSize="14sp"
+                    android:textStyle="normal"/>
+
+                <TextView
+                    android:id="@+id/Account"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:background="@android:color/transparent"
+                    android:gravity="end"
+                    android:text="@string/current"
+                    android:textColor="@color/black_75_per"
+                    android:textSize="14sp"
+                    android:textStyle="bold"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/transparent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:background="@android:color/transparent"
+                    android:text="@string/available_balance"
+                    android:textColor="@color/black_75_per"
+                    android:textSize="14sp"
+                    android:textStyle="normal"/>
+
+                <TextView
+
+                    android:id="@+id/available_balance"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:background="@android:color/transparent"
+                    android:gravity="end"
+                    android:text="@string/sample_amount"
+                    android:textColor="@color/black_75_per"
+                    android:textSize="14sp"
+                    android:textStyle="bold"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/transparent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:background="@android:color/transparent"
+                    android:text="@string/unclear_amount"
+                    android:textColor="@color/black_75_per"
+                    android:textSize="14sp"
+                    android:textStyle="normal"/>
+
+                <TextView
+                    android:id="@+id/unclear_balance"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:background="@android:color/transparent"
+                    android:gravity="end"
+                    android:text="@string/sample_amount"
+                    android:textColor="@color/black_75_per"
+                    android:textSize="14sp"
+                    android:textStyle="bold"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue_variant2"
+        android:orientation="horizontal"
+        android:paddingBottom="4dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="4dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:gravity="start"
+            android:padding="5dp"
+            android:text="@string/last_updated"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/txtLastUpdatedAt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:gravity="start"
+            android:padding="5dp"
+            android:text="@string/sample_date"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            tools:ignore="RelativeOverlap" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ExpandableListView
+            android:id="@+id/listViewDateAccountDetails"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="#CCCCCC"
+            android:childDivider="@android:color/white"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            android:paddingBottom="12dp">
+
+        </ExpandableListView>
+
+        <TextView
+            android:id="@+id/empty_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:textColor="#666666"
+            android:textSize="16sp"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

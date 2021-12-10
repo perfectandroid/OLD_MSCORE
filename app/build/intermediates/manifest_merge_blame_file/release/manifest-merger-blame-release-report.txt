@@ -1,0 +1,565 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mscore.koz_thal_kallu_chethu"
+4    android:versionCode="7"
+5    android:versionName="3.2.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:6:5-67
+11-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:8:5-79
+13-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:9:5-81
+14-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:9:22-78
+15    <!--
+16        <uses-permission android:name="android.permission.READ_SMS" />
+17        <uses-permission android:name="android.permission.RECEIVE_SMS" />
+18    -->
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:14:5-65
+19-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:14:22-62
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:15:5-75
+20-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:15:22-72
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:16:5-81
+21-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:16:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:17:5-80
+22-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:17:22-77
+23    <uses-permission android:name="android.permission.READ_CONTACTS" />
+23-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:18:5-72
+23-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:18:22-69
+24    <uses-permission android:name="android.permission.READ_CALENDAR" />
+24-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:19:5-72
+24-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:19:22-69
+25    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+25-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:20:5-73
+25-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:20:22-70
+26
+27    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:26:5-28:36
+29        android:name="android.hardware.camera"
+29-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:27:9-47
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:28:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:29:5-31:36
+32        android:name="android.hardware.camera.front"
+32-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:30:9-53
+33        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+33-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:31:9-33
+34    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+35    <uses-feature
+35-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:34:5-36:36
+36        android:name="android.hardware.camera.autofocus"
+36-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:35:9-57
+37        android:required="false" />
+37-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:36:9-33
+38    <uses-feature
+38-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:37:5-39:36
+39        android:name="android.hardware.camera.flash"
+39-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:38:9-53
+40        android:required="false" />
+40-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:39:9-33
+41    <uses-feature
+41-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:40:5-42:36
+42        android:name="android.hardware.screen.landscape"
+42-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:41:9-57
+43        android:required="false" />
+43-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:42:9-33
+44    <uses-feature
+44-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:43:5-45:36
+45        android:name="android.hardware.wifi"
+45-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:44:9-45
+46        android:required="false" />
+46-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:45:9-33
+47    <uses-feature
+47-->[com.google.android.gms:play-services-maps:17.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\3bbdc1d878b893a12ed8a981b5346145\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+48        android:glEsVersion="0x00020000"
+48-->[com.google.android.gms:play-services-maps:17.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\3bbdc1d878b893a12ed8a981b5346145\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+49        android:required="true" />
+49-->[com.google.android.gms:play-services-maps:17.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\3bbdc1d878b893a12ed8a981b5346145\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+50
+51    <application
+51-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:22:5-242:19
+52        android:name="com.creativethoughts.iscore.IScoreApplication"
+52-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:23:9-42
+53        android:allowBackup="true"
+53-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:24:9-35
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.3.1] D:\gradle-7.0.2\caches\transforms-2\files-2.1\5fc92a8f58fa798fedf50293833a33b2\core-1.3.1\AndroidManifest.xml:24:18-86
+55        android:hardwareAccelerated="true"
+55-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:25:9-43
+56        android:icon="@drawable/aappicon"
+56-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:26:9-42
+57        android:label="@string/app_name"
+57-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:27:9-41
+58        android:largeHeap="true"
+58-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:28:9-33
+59        android:theme="@style/AppTheme" >
+59-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:29:9-40
+60        <uses-library
+60-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:33:9-35:40
+61            android:name="org.apache.http.legacy"
+61-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:34:13-50
+62            android:required="false" />
+62-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:35:13-37
+63
+64        <activity
+64-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:37:9-40:65
+65            android:name="com.creativethoughts.iscore.reports.ReportActivity"
+65-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:37:19-57
+66            android:label="Report"
+66-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:38:13-35
+67            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+67-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:39:13-55
+68            android:theme="@style/HomeActivityTheme" />
+68-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:40:13-53
+69        <activity
+69-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:42:9-50:20
+70            android:name="com.creativethoughts.iscore.DuedateActivity"
+70-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:43:13-44
+71            android:label="Due Dates Calender"
+71-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:44:13-47
+72            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+72-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:45:13-55
+73            android:theme="@style/HomeActivityTheme" >
+73-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:46:13-53
+74            <meta-data
+74-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+75                android:name="android.support.PARENT_ACTIVITY"
+75-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+76                android:value="com.creativethoughts.iscore.HomeActivity" />
+76-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+77        </activity>
+78        <activity
+78-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:51:9-59:20
+79            android:name="com.creativethoughts.iscore.FeaturesActvity"
+79-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:52:13-44
+80            android:label="Features"
+80-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:53:13-37
+81            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
+81-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:54:13-55
+82            android:theme="@style/HomeActivityTheme" >
+82-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:55:13-53
+83            <meta-data
+83-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+84                android:name="android.support.PARENT_ACTIVITY"
+84-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+85                android:value="com.creativethoughts.iscore.HomeActivity" />
+85-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+86        </activity>
+87        <activity
+87-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:60:9-68:20
+88            android:name="com.creativethoughts.iscore.FAQActivity"
+88-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:61:13-40
+89            android:label="Frequently Asked Questions"
+89-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:62:13-55
+90            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
+90-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:63:13-55
+91            android:theme="@style/HomeActivityTheme" >
+91-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:64:13-53
+92            <meta-data
+92-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+93                android:name="android.support.PARENT_ACTIVITY"
+93-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+94                android:value="com.creativethoughts.iscore.HomeActivity" />
+94-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+95        </activity>
+96        <activity
+96-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:69:9-78:20
+97            android:name="com.creativethoughts.iscore.FeedbackActivity"
+97-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:70:13-45
+98            android:label="Feedback"
+98-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:71:13-37
+99            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
+99-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:72:13-55
+100            android:theme="@style/HomeActivityTheme"
+100-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:73:13-53
+101            android:windowSoftInputMode="stateHidden|adjustPan" >
+101-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:74:13-64
+102            <meta-data
+102-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+103                android:name="android.support.PARENT_ACTIVITY"
+103-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+104                android:value="com.creativethoughts.iscore.HomeActivity" />
+104-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+105        </activity>
+106        <activity
+106-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:79:9-87:20
+107            android:name="com.creativethoughts.iscore.ContactusActivity"
+107-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:80:13-46
+108            android:label="Contact Us"
+108-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:81:13-39
+109            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
+109-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:82:13-55
+110            android:theme="@style/HomeActivityTheme" >
+110-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:83:13-53
+111            <meta-data
+111-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+112                android:name="android.support.PARENT_ACTIVITY"
+112-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+113                android:value="com.creativethoughts.iscore.HomeActivity" />
+113-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+114        </activity>
+115        <activity
+115-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:88:9-96:20
+116            android:name="com.creativethoughts.iscore.AboutUsActivity"
+116-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:89:13-44
+117            android:label="About Us"
+117-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:90:13-37
+118            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
+118-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:91:13-55
+119            android:theme="@style/HomeActivityTheme" >
+119-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:92:13-53
+120            <meta-data
+120-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+121                android:name="android.support.PARENT_ACTIVITY"
+121-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+122                android:value="com.creativethoughts.iscore.HomeActivity" />
+122-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+123        </activity>
+124        <activity
+124-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:97:9-101:59
+125            android:name="com.creativethoughts.iscore.MoreActivity"
+125-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:98:13-41
+126            android:label="More"
+126-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:99:13-33
+127            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+127-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:100:13-55
+128            android:theme="@style/AppTheme.NoActionBar" />
+128-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:101:13-56
+129        <activity
+129-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:102:9-110:20
+130            android:name="com.creativethoughts.iscore.ProfileActivity"
+130-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:103:13-44
+131            android:label="Profile"
+131-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:104:13-36
+132            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+132-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:105:13-55
+133            android:theme="@style/HomeActivityTheme" >
+133-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:106:13-53
+134            <meta-data
+134-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+135                android:name="android.support.PARENT_ACTIVITY"
+135-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+136                android:value="com.creativethoughts.iscore.HomeActivity" />
+136-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+137        </activity>
+138
+139        <meta-data
+139-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:112:9-114:71
+140            android:name="com.google.android.geo.API_KEY"
+140-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:113:13-58
+141            android:value="AIzaSyCrNhvainUKdUBq-C_0_b9vPhNqYRGvhL4" />
+141-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:114:13-68
+142        <meta-data
+142-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:115:9-117:69
+143            android:name="com.google.android.gms.version"
+143-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:116:13-58
+144            android:value="@integer/google_play_services_version" />
+144-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:117:13-66
+145
+146        <activity
+146-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:119:9-127:20
+147            android:name="com.creativethoughts.iscore.BankActivity"
+147-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:120:13-41
+148            android:label="Branch Location Details"
+148-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:121:13-52
+149            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+149-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:122:13-55
+150            android:theme="@style/HomeActivityTheme" >
+150-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:123:13-53
+151            <meta-data
+151-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+152                android:name="android.support.PARENT_ACTIVITY"
+152-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+153                android:value="com.creativethoughts.iscore.HomeActivity" />
+153-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+154        </activity>
+155        <activity
+155-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:128:9-136:20
+156            android:name="com.creativethoughts.iscore.SingleBranchActivity"
+156-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:129:13-49
+157            android:label="Branch Details"
+157-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:130:13-43
+158            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+158-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:131:13-55
+159            android:theme="@style/HomeActivityTheme" >
+159-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:132:13-53
+160            <meta-data
+160-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+161                android:name="android.support.PARENT_ACTIVITY"
+161-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+162                android:value="com.creativethoughts.iscore.HomeActivity" />
+162-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+163        </activity>
+164        <activity
+164-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:137:9-145:20
+165            android:name="com.creativethoughts.iscore.DashboardtabActivity"
+165-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:138:13-49
+166            android:label="Dash Board"
+166-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:139:13-39
+167            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+167-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:140:13-55
+168            android:theme="@style/HomeActivityTheme" >
+168-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:141:13-53
+169            <meta-data
+169-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+170                android:name="android.support.PARENT_ACTIVITY"
+170-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+171                android:value="com.creativethoughts.iscore.HomeActivity" />
+171-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+172        </activity>
+173        <activity android:name="com.creativethoughts.iscore.BranchDetailsActivity" />
+173-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:146:9-59
+173-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:146:19-56
+174
+175        <provider
+176            android:name="androidx.core.content.FileProvider"
+176-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:149:13-62
+177            android:authorities="com.mscore.koz_thal_kallu_chethu.fileprovider"
+177-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:150:13-64
+178            android:exported="false"
+178-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:151:13-37
+179            android:grantUriPermissions="true" >
+179-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:152:13-47
+180            <meta-data
+180-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:153:13-155:58
+181                android:name="android.support.FILE_PROVIDER_PATHS"
+181-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:154:17-67
+182                android:resource="@xml/provider_paths" />
+182-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:155:17-55
+183        </provider>
+184
+185        <activity
+185-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:158:9-161:56
+186            android:name="com.creativethoughts.iscore.HomeActivity"
+186-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:159:13-41
+187            android:label="Home"
+187-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:160:13-33
+188            android:theme="@style/HomeActivityTheme" />
+188-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:161:13-53
+189        <activity android:name="com.creativethoughts.iscore.RecieveAndValidateOTP" />
+189-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:162:9-59
+189-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:162:19-56
+190        <activity
+190-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:163:9-165:56
+191            android:name="com.creativethoughts.iscore.TransactionDetailActivity"
+191-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:164:13-54
+192            android:theme="@style/HomeActivityTheme" />
+192-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:165:13-53
+193        <activity
+193-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:166:9-176:20
+194            android:name="com.creativethoughts.iscore.UserRegistrationActivity"
+194-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:167:13-53
+195            android:label="@string/app_name"
+195-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:168:13-45
+196            android:theme="@style/AppTheme.NoActionBar" >
+196-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:169:13-56
+197            <intent-filter>
+197-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:170:13-175:29
+198                <action android:name="android.intent.action.MAIN" />
+198-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:171:17-69
+198-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:171:25-66
+199                <action android:name="android.intent.action.VIEW" />
+199-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:172:17-69
+199-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:172:25-66
+200
+201                <category android:name="android.intent.category.LAUNCHER" />
+201-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:174:17-77
+201-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:174:27-74
+202            </intent-filter>
+203        </activity>
+204        <activity
+204-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:177:9-185:20
+205            android:name="com.creativethoughts.iscore.SearchResultActivity"
+205-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:178:13-49
+206            android:label="@string/title_activity_search_result"
+206-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:179:13-65
+207            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+207-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:180:13-55
+208            android:theme="@style/HomeActivityTheme" >
+208-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:181:13-53
+209            <meta-data
+209-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+210                android:name="android.support.PARENT_ACTIVITY"
+210-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+211                android:value="com.creativethoughts.iscore.HomeActivity" />
+211-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+212        </activity>
+213        <activity
+213-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:186:9-189:59
+214            android:name="com.creativethoughts.iscore.PinLoginActivity"
+214-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:187:13-45
+215            android:label="@string/title_activity_transaction_details"
+215-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:188:13-71
+216            android:theme="@style/AppTheme.NoActionBar" />
+216-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:189:13-56
+217
+218        <receiver
+218-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:191:9-198:20
+219            android:name="com.creativethoughts.iscore.receiver.MScoreBootCompleteReceiver"
+219-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:192:13-64
+220            android:enabled="true" >
+220-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:193:13-35
+221            <intent-filter>
+221-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:194:13-197:29
+222                <action android:name="android.intent.action.BOOT_COMPLETED" />
+222-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:195:17-79
+222-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:195:25-76
+223                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+223-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:196:17-79
+223-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:196:25-76
+224            </intent-filter>
+225        </receiver>
+226        <receiver android:name="com.creativethoughts.iscore.receiver.KeepUpdateBroadcastReceiver" />
+226-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:199:9-74
+226-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:199:19-71
+227        <receiver android:name="com.creativethoughts.iscore.receiver.SMSReceiver" >
+227-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:200:9-204:20
+227-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:200:19-55
+228            <intent-filter>
+228-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:201:13-203:29
+229                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+229-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:202:17-82
+229-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:202:25-79
+230            </intent-filter>
+231        </receiver>
+232        <receiver
+232-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:205:9-211:20
+233            android:name="com.creativethoughts.iscore.receiver.ConnectivityReceiver"
+233-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:206:13-58
+234            android:enabled="true" >
+234-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:207:13-35
+235            <intent-filter>
+235-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:208:13-210:29
+236                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+236-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:196:17-79
+236-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:196:25-76
+237            </intent-filter>
+238        </receiver>
+239        <receiver
+239-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:212:9-218:20
+240            android:name="com.creativethoughts.iscore.receiver.MySMSBroadcastReceiver"
+240-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:213:13-60
+241            android:exported="true" >
+241-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:214:13-36
+242            <intent-filter>
+242-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:215:13-217:29
+243                <action android:name="com.google.android.gms.auth.api.phone.SMS_RETRIEVED" />
+243-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:216:17-94
+243-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:216:25-91
+244            </intent-filter>
+245        </receiver>
+246
+247        <activity
+247-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:220:9-222:59
+248            android:name="com.creativethoughts.iscore.AddSenderReceiverActivity"
+248-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:221:13-54
+249            android:theme="@style/AppTheme.NoActionBar" />
+249-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:222:13-56
+250        <activity
+250-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:223:9-226:59
+251            android:name="com.creativethoughts.iscore.TransactionOTPActivity"
+251-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:224:13-51
+252            android:label="@string/title_activity_transaction_otp"
+252-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:225:13-67
+253            android:theme="@style/AppTheme.NoActionBar" />
+253-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:226:13-56
+254        <activity
+254-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:227:9-230:59
+255            android:name="com.creativethoughts.iscore.ScannerActivity"
+255-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:228:13-44
+256            android:label="@string/title_activity_scanner"
+256-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:229:13-59
+257            android:theme="@style/AppTheme.NoActionBar" />
+257-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:230:13-56
+258        <activity android:name="com.creativethoughts.iscore.AskPhonePermissionActivity" />
+258-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:231:9-64
+258-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:231:19-61
+259        <activity android:name="com.creativethoughts.iscore.TimeOutActivity" />
+259-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:232:9-53
+259-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:232:19-50
+260        <activity
+260-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:233:9-235:60
+261            android:name="com.creativethoughts.iscore.kseb.KsebSectionSelectionActivity"
+261-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:234:13-62
+262            android:theme="@style/PinLoginActivityTheme" />
+262-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:235:13-57
+263        <activity android:name="com.creativethoughts.iscore.neftrtgs.NeftRtgsOtpActivity" />
+263-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:236:9-66
+263-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:236:19-63
+264        <activity
+264-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:237:9-239:59
+265            android:name="com.creativethoughts.iscore.SplashScreen"
+265-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:238:13-41
+266            android:theme="@style/AppTheme.NoActionBar" />
+266-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:239:13-56
+267        <activity android:name="com.creativethoughts.iscore.QRcodegeneartionActivity" />
+267-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:240:9-62
+267-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:240:19-59
+268        <activity android:name="com.creativethoughts.iscore.BarcodegenerationActivity" />
+268-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:241:9-63
+268-->D:\Projects\OLD MSCORE\MSCORE\app\src\main\AndroidManifest.xml:241:19-60
+269        <activity
+269-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:48:9-54:63
+270            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+270-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:49:13-74
+271            android:clearTaskOnLaunch="true"
+271-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:50:13-45
+272            android:screenOrientation="sensorLandscape"
+272-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:51:13-56
+273            android:stateNotNeeded="true"
+273-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:52:13-42
+274            android:theme="@style/zxing_CaptureTheme"
+274-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:53:13-54
+275            android:windowSoftInputMode="stateAlwaysHidden" />
+275-->[com.journeyapps:zxing-android-embedded:3.0.2] D:\gradle-7.0.2\caches\transforms-2\files-2.1\886b0a755da149eae2fa2871421c78cb\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:54:13-60
+276        <activity
+276-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:23:9-27:75
+277            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+277-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:24:13-93
+278            android:excludeFromRecents="true"
+278-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:25:13-46
+279            android:exported="false"
+279-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:26:13-37
+280            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+280-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:27:13-72
+281        <!--
+282            Service handling Google Sign-In user revocation. For apps that do not integrate with
+283            Google Sign-In, this service will never be started.
+284        -->
+285        <service
+285-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:33:9-36:110
+286            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+286-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
+287            android:exported="true"
+287-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:35:13-36
+288            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+288-->[com.google.android.gms:play-services-auth:18.0.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
+289
+290        <activity
+290-->[com.google.android.gms:play-services-base:17.1.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+291            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+291-->[com.google.android.gms:play-services-base:17.1.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+292            android:exported="false"
+292-->[com.google.android.gms:play-services-base:17.1.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+293            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+293-->[com.google.android.gms:play-services-base:17.1.0] D:\gradle-7.0.2\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+294    </application>
+295
+296</manifest>

@@ -1,0 +1,2446 @@
+[
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_datacard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\datacard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_banklist.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_banklist.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_content_backspace.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_backspace.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_modulelist.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\modulelist.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_rtgs_neft_processed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\rtgs_neft_processed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_downlaod.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_downlaod.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_dish.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\dish.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jio.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\jio.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_kseb.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\kseb.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_address.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_address.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_custom_edt_txt_account_border.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\custom_edt_txt_account_border.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_thumbs_up.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\thumbs_up.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_save.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\save.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frontcard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\frontcard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_neft_choosed_shadow.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_neft_choosed_shadow.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_content_backspace.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_content_backspace.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_save.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\save.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_bg.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\view_bg.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fund_trsfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fund_trsfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_dish.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\dish.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fund_sure.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\fund_sure.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_offers.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_offers.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_in.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\in.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_right_white.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_arrow_right_white.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_airtel.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\airtel.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginbackgdbtn.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\loginbackgdbtn.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_failed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_failed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_neft_mode_button.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_neft_mode_button.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headerbg.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\headerbg.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about_us.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_liability.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_liability.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_phone_permission_layout.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\phone_permission_layout.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_netft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_netft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_qrcodegeneration.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_qrcodegeneration.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transaction_otp.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_transaction_otp.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usersprofile.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\usersprofile.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_share.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\share.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_technology_partner.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\technology_partner.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_spinner.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_spinner.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeiconbg.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeiconbg.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_datacard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\datacard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_card.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_card.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_kseb.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\kseb.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fund_trsfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_fund_trsfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_dish.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\dish.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_settings_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_kseb.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\kseb.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_impsneft.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\impsneft.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_rupee.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rupee.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bulletred.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\bulletred.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_passbook_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_passbook_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_downlaod.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_downlaod.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homekseb.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homekseb.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_landline.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\landline.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homecard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homecard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_rtgs.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\shadow_rtgs.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_offers.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_offers.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fund_trsfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_fund_trsfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_change_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\change_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_success.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_success.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_sorry.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_sorry.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_btn_bg.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\color_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_settings_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_settings_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fund_transferfragment.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_fund_transferfragment.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_spinner_item_dropdown.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\toolbar_spinner_item_dropdown.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_save.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\save.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_setting_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\setting_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle1.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\toggle1.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_action_bar.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\custom_action_bar.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qr_code.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\qr_code.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_sender_receiver.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_add_sender_receiver.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_us.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homesummary.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homesummary.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_registration.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_registration.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_left_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner1.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\banner1.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_dish.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\dish.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_piechart.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\recyclerview_piechart.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_progress_bar_horizontal.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_failed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_failed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_netft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_netft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_search_result.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\menu\\menu_search_result.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_stel.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\stel.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_bank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_bank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_sorry.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_sorry.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginbackgdbtn1.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\loginbackgdbtn1.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_share.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\share.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pin_login.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_pin_login.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_contacts.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_action_contacts.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_date_list_group.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\date_list_group.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_recharge.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_recharge.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homedatacard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homedatacard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_analysys_savings.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_analysys_savings.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aappicon.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\aappicon.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_add.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_money_transfer.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_money_transfer.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bigtv.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\bigtv.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_impsneft.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\impsneft.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blue_black.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\blue_black.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drag.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\drag.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nav_more.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_nav_more.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_spinner_item.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\toolbar_spinner_item.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\home.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_jio.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\jio.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_netft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_netft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_squar_bg.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\et_squar_bg.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_summary_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_summary_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_recharge.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_action_recharge.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\side_nav.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_shape.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_rupee.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_rupee.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ownbank_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_ownbank_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_bank_facilities.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\home_bank_facilities.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_save.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\save.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_circle_key_pad.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\circle_key_pad.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_neft_rtgs.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_neft_rtgs.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_success.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_success.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\menu_global.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transaction_deatils.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_transaction_deatils.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dth_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_dth_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bakground.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\bakground.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_contacts.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_contacts.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_vodafone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\vodafone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_changepin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\changepin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_singlebranch.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_singlebranch.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_rtgs_mode_button.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_rtgs_mode_button.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_recharge_menu.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\home_recharge_menu.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_rtgs_neft_processed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\rtgs_neft_processed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edt_txt_error_back_ground.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_edt_txt_error_back_ground.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_sorry.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_sorry.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_imps.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_imps.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_postpaid_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_postpaid_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_changepin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\changepin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_sorry.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sorry.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\menu_side_nav.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\menu\\side_nav.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_list_beneficiary_details.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\custom_list_beneficiary_details.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu_card.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_menu_card.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_neft_rtgs_otp.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_neft_rtgs_otp.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_service_chooser_button_after.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\service_chooser_button_after.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jio.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\jio.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message_alert.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_message_alert.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_corner_radius_toast.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\corner_radius_toast.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_standinginstructions.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\standinginstructions.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download1.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\download1.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backcard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\backcard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_borderdark.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\gray_borderdark.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_add.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\spinner_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh_1.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh_1.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gray_borderdark1.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\gray_borderdark1.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_dish.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\dish.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeaccountdetails.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeaccountdetails.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_otpbg.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\otpbg.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_user.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_register_user.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_popup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\layout_popup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_left_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\left_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_refresh.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_usericon.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_usericon.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_technology_partner.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\technology_partner.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etbackgroung.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\etbackgroung.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_landline.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\landline.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kseb_bill_status.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_kseb_bill_status.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calendar.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_imps.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_action_imps.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bakground.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\bakground.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_pop_up_neft_rtgs_beneficiary_details.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\custom_pop_up_neft_rtgs_beneficiary_details.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_instruct_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_instruct_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\raw_cloud.crt.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\raw\\cloud.crt"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_jio.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\jio.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_otp.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\otp.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_duedate.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_duedate.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_accent_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\accent_logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faq.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_faq.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bakground.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\bakground.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calendar.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_change_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\change_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_land.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_land.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_dishtv.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\dishtv.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner2.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\banner2.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_branchdetail.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\layout_branchdetail.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hometransfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\hometransfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_success.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_success.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_other_bank_fund_transfer_service_chooser.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_other_bank_fund_transfer_service_chooser.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_messages.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_changepin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\changepin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_neft.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\shadow_neft.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fund_sure.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\fund_sure.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_more.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeotherbank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeotherbank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_kseb_user_data_for_check.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\view_kseb_user_data_for_check.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminder_popup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\reminder_popup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_neft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_neft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_thumbs_up.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\thumbs_up.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feature.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_feature.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accountsummary.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_accountsummary.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crdtype.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\crdtype.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jio.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\jio.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_landline.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\landline.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down_white.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_arrow_down_white.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menuback.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\menuback.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_prepaid_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_prepaid_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intimation.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\intimation.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_datacard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\datacard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_companylogo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\companylogo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tata_indicom.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\tata_indicom.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_sorry.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_sorry.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_change_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\change_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nav_close.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_nav_close.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_setting_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\setting_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_netft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_netft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nav_offer.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_nav_offer.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner3.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\banner3.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_registration_bg.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\btn_registration_bg.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_show_pwd_btn.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\show_pwd_btn.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icgender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\icgender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_datacard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\datacard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_change_pin.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_change_pin.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_kseb.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\kseb.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_settings_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_settings_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_kseb_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_kseb_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_save.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\save.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_assets.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_assets.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qr_code.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\qr_code.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_registration_pressed.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\btn_registration_pressed.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bell.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_summary.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_summary.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fundtransfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\fundtransfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_due_dates.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_due_dates.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_neft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_neft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_landline.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\landline.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_barpopup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\layout_barpopup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kseb_section_selection.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_kseb_section_selection.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_result.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_search_result.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_blue.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_email_blue.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_refresh_1.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh_1.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\setting_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_right.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_settings_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_rtgs_neft_processed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\rtgs_neft_processed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fund_sure.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\fund_sure.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_recharge.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_action_recharge.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_downlaod.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_action_downlaod.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_maptab.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\layout_maptab.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_quit.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_quit.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tata_sky.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\tata_sky.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_btn_bg_normal.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\color_btn_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_share.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\share.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_blue_black.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\blue_black.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_directions.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_directions.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_failed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_failed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_share.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\share.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_impsneft.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\impsneft.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_circle.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kseb_bill.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_kseb_bill.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bsnal_3g.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\bsnal_3g.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh_1.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh_1.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_rtgs_choose_button.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_rtgs_choose_button.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_timer.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_timer.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mobile.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_mobile.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_service_chooser_button_before.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\service_chooser_button_before.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drag.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\drag.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bakground.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\bakground.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_failed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_failed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homedth.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homedth.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeownbank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeownbank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_docomo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\docomo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_btn_selector.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\transparent_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_left_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_kseb_section.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\recycler_kseb_section.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash_board.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_black.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\blue_black.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account_info.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_account_info.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bankicon.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\bankicon.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog_layout.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\progress_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drag.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\drag.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_success.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_success.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fund_transfer.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_fund_transfer.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contactus.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_contactus.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drag.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\drag.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_qr.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_qr.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_bank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_bank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_page_top.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\settings_page_top.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bakground.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\bakground.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_message.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_message.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addreminder.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\addreminder.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_corner_radius_toast.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\corner_radius_toast.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edt_txt_account_border.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_edt_txt_account_border.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nav_pin.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_nav_pin.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_message.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_message.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_btn_selector_click.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\transparent_btn_selector_click.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh_1.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh_1.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_item_row.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\message_item_row.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_blue_black.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\blue_black.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_message.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_message.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_thumbs_up.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\thumbs_up.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fundtransfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\fundtransfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_phone.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_transaction_details.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\row_transaction_details.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_rtgs_neft_processed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\rtgs_neft_processed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_refresh.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\spinner_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_transaction_ot.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_transaction_ot.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icclose.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\icclose.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_content_backspace.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_content_backspace.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_rupee.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_action_rupee.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_failed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_failed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnbg.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\btnbg.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fund_sure.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\fund_sure.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepostpaid.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homepostpaid.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_branch_details.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_branch_details.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clock.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_clock.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_refresh.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_cusmodule_popup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\cusmodule_popup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blue_black.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\blue_black.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_standing_instruction.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_standing_instruction.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_setting_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\setting_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification_posting.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_notification_posting.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_sun_direct.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\sun_direct.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_barcodegeneration.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_barcodegeneration.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_bank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_bank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pass_book.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_pass_book.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homesearch.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homesearch.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_thumbs_up.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\thumbs_up.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_item.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\card.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_add.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_left_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homedashboard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homedashboard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_electricity.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_electricity.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homenotice.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homenotice.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_offers.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_offers.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_qr_code.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\qr_code.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_barcode.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_barcode.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_blue.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_date_blue.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_quit.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_passbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\passbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_registration_normal.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\btn_registration_normal.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_barcode_test.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_barcode_test.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_empty_password.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\empty_password.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tech_partner_logo.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\tech_partner_logo.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_landline.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\landline.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_imps.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_imps.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_search_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_scanner.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\content_scanner.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fundtransfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\fundtransfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fab_background.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepassbook.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homepassbook.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_datacard.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\datacard.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fundtransfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\fundtransfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item_dropdown_operator_adaper_row.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\spinner_item_dropdown_operator_adaper_row.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_quit.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_quit.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_list_saved_beneficiary.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_list_saved_beneficiary.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_virtualcard.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_virtualcard.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nav_settings.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_nav_settings.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intimation_details.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_intimation_details.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_landline_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_landline_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blueblackbg.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\blueblackbg.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_contacts.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_action_contacts.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_effect_confirmation.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ripple_effect_confirmation.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_accent_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\accent_logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notice_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_notice_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_settings_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_settings_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_corner_radius_toast.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\corner_radius_toast.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_fund_transfer.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\home_fund_transfer.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_netft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_netft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle4.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\toggle4.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_us.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_maps.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_item.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_contacts.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_contacts.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_refresh.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logout.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\logout.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_account_submenu_popup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\account_submenu_popup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_white.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_date_white.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_spinner.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\circular_spinner.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_submit_button.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_submit_button.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_navigation_drawer.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_neft_mode_choose_button.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_neft_mode_choose_button.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_toolbar.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sms_verification.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_sms_verification.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_receiver.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_add_receiver.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_registration_disable.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\btn_registration_disable.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fundtransfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\fundtransfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_mts.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\mts.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appbillstatus.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\appbillstatus.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_recharge_submenu_popup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\recharge_submenu_popup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_changepin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\changepin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_banklist.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\recyclerview_banklist.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_zaark_custom_dialog.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\zaark_custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_kseb.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\kseb.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_rtgs_neft_processed.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\rtgs_neft_processed.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calendar.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_thumbs_up.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\thumbs_up.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_accent_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\accent_logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_recharge.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_recharge.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_left_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\left_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_add.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bakground.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\bakground.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_impsneft.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\impsneft.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeland.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeland.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_otherbank_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_otherbank_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nav_mail.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_nav_mail.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_bank.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\ic_bank.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accountsummarylist.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_accountsummarylist.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bsnl.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\bsnl.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_virtual_bg.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\virtual_bg.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_accent_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\accent_logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_otp.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\otp.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_item_account.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\single_item_account.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_accent_logo.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\accent_logo.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_blue_black.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxxhdpi\\blue_black.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_otp.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_otp.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_datacard_circle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_datacard_circle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle3.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\toggle3.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_changepin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\changepin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_duedate.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\layout_duedate.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_item_dark.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\simple_spinner_item_dark.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calender.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_calender.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_technology_partner.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\technology_partner.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_quit.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_quit.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_corner_radius_toast.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\corner_radius_toast.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_message.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_message.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_rupee.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_rupee.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_share.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\share.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_setting_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\setting_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_submenu_popup.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\submenu_popup.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_clock.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_content_backspace.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_content_backspace.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scanner.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qr_code.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\qr_code.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_neft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_neft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_change_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-hdpi\\change_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fund_trsfer.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_fund_trsfer.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_keypad_bg.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\btn_keypad_bg.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_imps.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_action_imps.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_date.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycle_success_alert.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\recycle_success_alert.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_success.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_success.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_calender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\ic_calender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeprepaid.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeprepaid.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_standinginstrctn.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_standinginstrctn.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\slide.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\toggle.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_us.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_bg_rnd_corner.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\white_bg_rnd_corner.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_account.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\account.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gender.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\gender.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homestandinginstruction.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homestandinginstruction.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homerecharge.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homerecharge.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_warning.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_refresh.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_analysys.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_analysys.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_offers.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_offers.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fund_sure.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\fund_sure.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_btn_bg_pressed.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\color_btn_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_neft_rtgs.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xxhdpi\\ic_neft_rtgs.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_downlaod.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-hdpi\\ic_action_downlaod.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_settings.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_corner_radius_toast.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\corner_radius_toast.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_rtgs_choosed_shadow.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\custom_rtgs_choosed_shadow.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_date_list_item.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\date_list_item.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_standing_instructions.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\activity_standing_instructions.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrcode.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\qrcode.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_impsneft.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-mdpi\\impsneft.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_reliance.jpg.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\reliance.jpg"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_idea.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-nodpi\\idea.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_right_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_technology_partner.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\technology_partner.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_change_pin.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xhdpi\\change_pin.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_technology_partner.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxxhdpi\\technology_partner.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_arrow.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\spinner_arrow.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mob.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-mdpi\\ic_mob.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homeothers.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\homeothers.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gray_arrow.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable\\ic_gray_arrow.xml"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_recharge.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_recharge.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_add.png.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_sender.xml.flat",
+        "source": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\src\\main\\res\\layout\\fragment_add_sender.xml"
+    }
+]

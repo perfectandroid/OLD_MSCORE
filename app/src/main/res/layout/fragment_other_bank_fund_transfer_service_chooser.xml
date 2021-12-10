@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.creativethoughts.iscore.neftrtgs.OtherBankFundTransferServiceChooserFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        android:layout_centerVertical="true">
+        <Button
+            android:id="@+id/btn_imps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IMPS"
+            android:textColor="@color/google_blue"
+            style="@style/service_chooser_before"
+            android:layout_margin="5dp" />
+        <Button
+            android:id="@+id/btn_neft"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NEFT"
+            style="@style/service_chooser_before"
+            android:layout_margin="5dp" />
+        <Button
+            android:id="@+id/btn_rtgs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RTGS"
+            style="@style/service_chooser_before"
+            android:layout_margin="5dp" />
+        <Button
+            android:id="@+id/btn_qck_pay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="QUICK PAY"
+            style="@style/service_chooser_before"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rltv_proceed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="10dp">
+        <Button
+            android:id="@+id/btn_proceed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Proceed"
+            android:background="@drawable/ripple_effect_confirmation"
+            android:textColor="@color/white"/>
+    </RelativeLayout>
+
+
+</RelativeLayout>

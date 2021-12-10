@@ -1,0 +1,401 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.creativethoughts.iscore.SearchFragment">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/transparent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical" >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:paddingEnd="8dp"
+                    android:paddingLeft="8dp"
+                    android:paddingStart="8dp"
+                    android:text="@string/select_source_account"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+                <Spinner
+                    android:id="@+id/spn_account_num"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginTop="2dp"
+                    android:gravity="start"
+                    android:popupBackground="#cccccc"
+                    android:spinnerMode="dialog" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:gravity="start"
+                    android:paddingEnd="8dp"
+                    android:paddingLeft="8dp"
+                    android:paddingStart="8dp"
+                    android:text="@string/reciever_account_type"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+                <Spinner
+                    android:id="@+id/spn_account_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginTop="2dp"
+                    android:gravity="start"
+                    android:popupBackground="#cccccc"
+                    android:spinnerMode="dialog" />
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingEnd="8dp"
+                android:paddingLeft="8dp"
+                android:paddingStart="8dp"
+                android:text="@string/account_no"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                 >
+                <EditText
+                    android:id="@+id/acc_no_block_one"
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@+id/acc_no_block_two"
+                    android:layout_marginEnd="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@+id/acc_no_block_two"
+                    android:layout_toStartOf="@+id/acc_no_block_two"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:imeActionId="@integer/viewfinder_border_width"
+                    android:inputType="numberPassword"
+                    android:maxLength="3"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp"
+                    />
+                <EditText
+                    android:id="@+id/acc_no_block_two"
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@+id/acc_no_block_three"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@+id/acc_no_block_three"
+                    android:layout_toStartOf="@+id/acc_no_block_three"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:ems="3"
+                    android:imeActionId="@integer/viewfinder_border_width"
+                    android:inputType="numberPassword"
+                    android:maxLength="3"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp"
+                     />
+                <EditText
+                    android:id="@+id/acc_no_block_three"
+                    android:layout_width="100dp"
+                    android:layout_height="fill_parent"
+                    android:layout_alignBottom="@+id/btn_scan_acnt_no"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@+id/btn_scan_acnt_no"
+                    android:layout_toStartOf="@+id/btn_scan_acnt_no"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:ems="6"
+                    android:imeActionId="@integer/viewfinder_border_width"
+                    android:inputType="numberPassword"
+                    android:maxLength="6"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp"/>
+
+                <Button
+                    android:id="@+id/btn_scan_acnt_no"
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/color_btn_bg"
+                    android:text="@string/scan"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingEnd="8dp"
+                android:paddingLeft="8dp"
+                android:paddingStart="8dp"
+                android:text="@string/confirm_acc_no"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+                <EditText
+                    android:id="@+id/confirm_acc_no_block_one"
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@+id/confirm_acc_no_block_two"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@+id/confirm_acc_no_block_two"
+                    android:layout_toStartOf="@+id/confirm_acc_no_block_two"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:imeActionId="@integer/viewfinder_border_width"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp"
+                    />
+                <EditText
+                    android:id="@+id/confirm_acc_no_block_two"
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@+id/confirm_acc_no_block_three"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@+id/confirm_acc_no_block_three"
+                    android:layout_toStartOf="@+id/confirm_acc_no_block_three"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:ems="3"
+                    android:imeActionId="@integer/viewfinder_border_width"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp" />
+                <EditText
+                    android:id="@+id/confirm_acc_no_block_three"
+                    android:layout_width="100dp"
+                    android:layout_height="fill_parent"
+                    android:layout_alignBottom="@+id/confirm_button"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@+id/confirm_button"
+                    android:layout_toStartOf="@+id/confirm_button"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:ems="6"
+                    android:imeActionId="@integer/viewfinder_border_width"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingStart="5dp"/>
+
+                <Button
+                    android:id="@+id/confirm_button"
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:background="@null"
+                    android:text="@string/scan"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:visibility="gone"
+                >
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/account_number_inputlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+                     >
+
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/account_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/account_no"
+                        android:inputType="numberPassword"
+                        android:paddingLeft="8dp"
+                        android:paddingRight="8dp"
+                        android:textColor="@color/text_tertary"
+                        android:textColorHint="@color/text_primary"
+                        android:textSize="14sp" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <Button
+                    android:id="@+id/scan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/color_btn_bg"
+                    android:minHeight="48dp"
+                    android:paddingLeft="12dp"
+                    android:paddingRight="12dp"
+                    android:text="@string/scan"
+                    android:textColor="@color/white"
+                    android:textSize="16sp"
+                    tools:ignore="RelativeOverlap" />
+
+            </RelativeLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/confirm_account_number_inputlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="16dp"
+                android:visibility="gone">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/confirm_account_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/confirm_acc_no"
+                    android:inputType="number"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textColor="@color/text_tertary"
+                    android:textColorHint="@color/text_primary"
+                    android:textSize="14sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+               <com.google.android.material.textfield.TextInputLayout
+                   android:id="@+id/amount_inputlayout"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_gravity="center_vertical"
+                   android:layout_marginTop="16dp"
+                   android:background="@drawable/custom_edt_txt_account_border"
+                   android:visibility="gone">
+
+                   <androidx.appcompat.widget.AppCompatEditText
+                       android:id="@+id/amount"
+                       android:layout_width="match_parent"
+                       android:layout_height="60dp"
+                       android:background="@null"
+                       android:hint="@string/amount"
+                       android:inputType="number"
+                       android:paddingLeft="8dp"
+                       android:paddingRight="8dp"
+                       android:textColor="@color/text_tertary"
+                       android:textColorHint="@color/text_primary"
+                       android:textSize="18sp" />
+               </com.google.android.material.textfield.TextInputLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:paddingEnd="8dp"
+                android:paddingLeft="8dp"
+                android:paddingStart="8dp"
+                android:text="@string/amount"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="3dp">
+                <Button
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:background="@null" />
+                <EditText
+                    android:id="@+id/edt_txt_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/custom_edt_txt_account_border"
+                    android:inputType="number"/>
+
+            </LinearLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/message_inputlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="16dp"
+
+                android:visibility="gone">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/message"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/title_section3"
+                    android:inputType="phone"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textColor="@color/text_tertary"
+                    android:textColorHint="@color/text_primary"
+                    android:textSize="18sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <Button
+                android:id="@+id/btn_submit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/blue_variant2"
+                android:text="@string/submit"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mscore.koz_thal_kallu_chethu",
+  "variantName": "debug",
+  "elements": []
+}

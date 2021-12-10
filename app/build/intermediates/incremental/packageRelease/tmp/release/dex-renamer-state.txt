@@ -1,0 +1,4 @@
+#Wed Nov 17 16:08:14 IST 2021
+base.0=D\:\\Projects\\OLD MSCORE\\MSCORE\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

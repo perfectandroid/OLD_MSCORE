@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\OLD MSCORE\\MSCORE\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\gradle-7.0.2\\caches\\transforms-2\\files-2.1\\5d2afa29eada3507465d2f714a0c3de5\\jetified-core-1.9\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

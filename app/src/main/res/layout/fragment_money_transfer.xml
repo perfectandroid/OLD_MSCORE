@@ -1,0 +1,284 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.creativethoughts.iscore.SearchFragment">
+
+    <LinearLayout
+        android:id="@+id/linear_animation_container"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/rltv_error"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/gray_btn_bg_color"
+            android:padding="10dp"
+            android:visibility="gone">
+            <TextView
+                android:id="@+id/txt_error"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="An error was occured !!!...."
+                android:textColor="@color/white"/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:gravity="start"
+                    android:paddingEnd="8dp"
+                    android:paddingLeft="8dp"
+                    android:paddingStart="8dp"
+                    android:text="@string/select_account"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="14sp"
+                    android:textStyle="normal" />
+
+                <Spinner
+                    android:id="@+id/spn_account_num"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginTop="2dp"
+                    android:gravity="start"
+                    android:popupBackground="#cccccc"
+                    android:spinnerMode="dialog" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_gravity="center"
+                        android:gravity="start"
+                        android:paddingEnd="8dp"
+                        android:paddingLeft="8dp"
+                        android:paddingStart="8dp"
+                        android:text="@string/select_sender"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="14sp"
+                        android:textStyle="normal" />
+
+                    <TextView
+                        android:id="@+id/add_new_sender"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_gravity="center"
+                        android:gravity="start"
+                        android:paddingEnd="8dp"
+                        android:paddingLeft="8dp"
+                        android:paddingStart="8dp"
+                        android:text="@string/add_new_sender"
+                        android:textColor="#2200CC"
+                        android:textSize="16sp"
+                        android:textStyle="normal"
+                        tools:ignore="RelativeOverlap" />
+                </RelativeLayout>
+
+
+                <Spinner
+                    android:id="@+id/sender_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="start"
+                    android:popupBackground="#cccccc" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_gravity="center"
+                        android:gravity="start"
+                        android:paddingEnd="8dp"
+                        android:paddingLeft="8dp"
+                        android:paddingStart="8dp"
+                        android:text="@string/select_receiver"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="14sp"
+                        android:textStyle="normal" />
+
+                    <TextView
+                        android:id="@+id/add_new_receiver"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_gravity="center"
+                        android:gravity="start"
+                        android:paddingEnd="8dp"
+                        android:paddingLeft="8dp"
+                        android:paddingStart="8dp"
+                        android:text="@string/add_new_receiver"
+                        android:textColor="#2200CC"
+                        android:textSize="16sp"
+                        android:textStyle="normal"
+                        tools:ignore="RelativeOverlap" />
+                </RelativeLayout>
+
+
+                <Spinner
+                    android:id="@+id/receiver_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="start"
+                    android:popupBackground="#cccccc" />
+            </LinearLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/amount_inputlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="16dp">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:digits="0123456789."
+                    android:hint="@string/amount"
+                    android:imeOptions="actionNext"
+                    android:inputType="numberDecimal"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textColor="@color/text_tertary"
+                    android:textColorHint="@color/text_primary"
+                    android:textSize="18sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/message_inputlayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="16dp">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/message"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/title_section3"
+                    android:inputType="text"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textColor="@color/text_tertary"
+                    android:textColorHint="@color/text_primary"
+                    android:textSize="18sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/mpin_inputlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="2">
+
+                    <androidx.appcompat.widget.AppCompatEditText
+                        android:id="@+id/mpin"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="M-Pin"
+                        android:inputType="phone"
+                        android:maxLength="5"
+                        android:paddingLeft="8dp"
+                        android:paddingRight="8dp"
+                        android:textColor="@color/text_tertary"
+                        android:textColorHint="@color/text_primary"
+                        android:textSize="18sp" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <Button
+                    android:id="@+id/btn_forgot_mpin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="2"
+                    android:background="@null"
+                    android:gravity="center_vertical"
+                    android:text="Forgot m-Pin"
+                    android:textAllCaps="false"
+                    android:textColor="#2200CC"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <Button
+                android:id="@+id/btn_submit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/blue_variant2"
+                android:text="@string/make_payment"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>
