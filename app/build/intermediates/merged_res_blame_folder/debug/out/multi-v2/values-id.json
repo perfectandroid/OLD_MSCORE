@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anusree.PERFECTLIMITED\\.gradle\\caches\\transforms-2\\files-2.1\\080ef696d4129e1ea50e10aac9c2a68f\\jetified-zxing-android-embedded-3.0.2\\res\\values-id\\values.xml",
+                    "source": "/Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/res/values-id/values.xml",
                     "from": {
                         "startLines": "4,5,6,7",
                         "startColumns": "4,4,4,4",

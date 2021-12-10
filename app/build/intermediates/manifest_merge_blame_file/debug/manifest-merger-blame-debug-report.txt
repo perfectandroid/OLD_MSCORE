@@ -6,562 +6,562 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml
+8-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml
+9-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:6:5-67
-11-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:6:22-64
+11-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:7:5-79
-12-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:7:22-76
+12-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:7:5-79
+12-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:7:22-76
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:8:5-79
-13-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:8:22-76
+13-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:8:5-79
+13-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:8:22-76
 14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-14-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:9:5-81
-14-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:9:22-78
+14-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:9:5-81
+14-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:9:22-78
 15    <!--
 16        <uses-permission android:name="android.permission.READ_SMS" />
 17        <uses-permission android:name="android.permission.RECEIVE_SMS" />
 18    -->
 19    <uses-permission android:name="android.permission.CAMERA" />
-19-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:14:5-65
-19-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:14:22-62
+19-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:14:5-65
+19-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:14:22-62
 20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-20-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:15:5-75
-20-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:15:22-72
+20-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:15:5-75
+20-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:15:22-72
 21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-21-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:16:5-81
-21-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:16:22-78
+21-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:16:5-81
+21-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:16:22-78
 22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-22-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:17:5-80
-22-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:17:22-77
+22-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:17:5-80
+22-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:17:22-77
 23    <uses-permission android:name="android.permission.READ_CONTACTS" />
-23-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:18:5-72
-23-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:18:22-69
+23-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:18:5-72
+23-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:18:22-69
 24    <uses-permission android:name="android.permission.READ_CALENDAR" />
-24-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:19:5-72
-24-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:19:22-69
+24-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:19:5-72
+24-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:19:22-69
 25    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
-25-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:20:5-73
-25-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:20:22-70
+25-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:20:5-73
+25-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:20:22-70
 26
 27    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
 28    <uses-feature
-28-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:26:5-28:36
+28-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:26:5-28:36
 29        android:name="android.hardware.camera"
-29-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:27:9-47
+29-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:27:9-47
 30        android:required="false" />
-30-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:28:9-33
+30-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:28:9-33
 31    <uses-feature
-31-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:29:5-31:36
+31-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:29:5-31:36
 32        android:name="android.hardware.camera.front"
-32-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:30:9-53
+32-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:30:9-53
 33        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
-33-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:31:9-33
+33-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:31:9-33
 34    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
 35    <uses-feature
-35-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:34:5-36:36
+35-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:34:5-36:36
 36        android:name="android.hardware.camera.autofocus"
-36-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:35:9-57
+36-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:35:9-57
 37        android:required="false" />
-37-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:36:9-33
+37-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:36:9-33
 38    <uses-feature
-38-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:37:5-39:36
+38-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:37:5-39:36
 39        android:name="android.hardware.camera.flash"
-39-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:38:9-53
+39-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:38:9-53
 40        android:required="false" />
-40-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:39:9-33
+40-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:39:9-33
 41    <uses-feature
-41-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:40:5-42:36
+41-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:40:5-42:36
 42        android:name="android.hardware.screen.landscape"
-42-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:41:9-57
+42-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:41:9-57
 43        android:required="false" />
-43-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:42:9-33
+43-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:42:9-33
 44    <uses-feature
-44-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:43:5-45:36
+44-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:43:5-45:36
 45        android:name="android.hardware.wifi"
-45-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:44:9-45
+45-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:44:9-45
 46        android:required="false" />
-46-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:45:9-33
+46-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:45:9-33
 47    <uses-feature
-47-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\3bbdc1d878b893a12ed8a981b5346145\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+47-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/3bbdc1d878b893a12ed8a981b5346145/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
 48        android:glEsVersion="0x00020000"
-48-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\3bbdc1d878b893a12ed8a981b5346145\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+48-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/3bbdc1d878b893a12ed8a981b5346145/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
 49        android:required="true" />
-49-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\3bbdc1d878b893a12ed8a981b5346145\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+49-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/3bbdc1d878b893a12ed8a981b5346145/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 50
 51    <application
-51-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:22:5-242:19
+51-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:22:5-242:19
 52        android:name="com.creativethoughts.iscore.IScoreApplication"
-52-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:23:9-42
+52-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:23:9-42
 53        android:allowBackup="true"
-53-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:24:9-35
+53-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:24:9-35
 54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-54-->[androidx.core:core:1.3.1] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\5fc92a8f58fa798fedf50293833a33b2\core-1.3.1\AndroidManifest.xml:24:18-86
+54-->[androidx.core:core:1.3.1] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/5fc92a8f58fa798fedf50293833a33b2/core-1.3.1/AndroidManifest.xml:24:18-86
 55        android:debuggable="true"
 56        android:hardwareAccelerated="true"
-56-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:25:9-43
+56-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:25:9-43
 57        android:icon="@drawable/aappicon"
-57-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:26:9-42
+57-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:26:9-42
 58        android:label="@string/app_name"
-58-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:27:9-41
+58-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:27:9-41
 59        android:largeHeap="true"
-59-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:28:9-33
+59-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:28:9-33
 60        android:testOnly="true"
 61        android:theme="@style/AppTheme" >
-61-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:29:9-40
+61-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:29:9-40
 62        <uses-library
-62-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:33:9-35:40
+62-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:33:9-35:40
 63            android:name="org.apache.http.legacy"
-63-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:34:13-50
+63-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:34:13-50
 64            android:required="false" />
-64-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:35:13-37
+64-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:35:13-37
 65
 66        <activity
-66-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:37:9-40:65
+66-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:37:9-40:65
 67            android:name="com.creativethoughts.iscore.reports.ReportActivity"
-67-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:37:19-57
+67-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:37:19-57
 68            android:label="Report"
-68-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:38:13-35
+68-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:38:13-35
 69            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-69-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:39:13-55
+69-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:39:13-55
 70            android:theme="@style/HomeActivityTheme" />
-70-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:40:13-53
+70-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:40:13-53
 71        <activity
-71-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:42:9-50:20
+71-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:42:9-50:20
 72            android:name="com.creativethoughts.iscore.DuedateActivity"
-72-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:43:13-44
+72-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:43:13-44
 73            android:label="Due Dates Calender"
-73-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:44:13-47
+73-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:44:13-47
 74            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-74-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:45:13-55
+74-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:45:13-55
 75            android:theme="@style/HomeActivityTheme" >
-75-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:46:13-53
+75-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:46:13-53
 76            <meta-data
-76-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+76-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 77                android:name="android.support.PARENT_ACTIVITY"
-77-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+77-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 78                android:value="com.creativethoughts.iscore.HomeActivity" />
-78-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+78-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 79        </activity>
 80        <activity
-80-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:51:9-59:20
+80-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:51:9-59:20
 81            android:name="com.creativethoughts.iscore.FeaturesActvity"
-81-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:52:13-44
+81-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:52:13-44
 82            android:label="Features"
-82-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:53:13-37
+82-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:53:13-37
 83            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
-83-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:54:13-55
+83-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:54:13-55
 84            android:theme="@style/HomeActivityTheme" >
-84-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:55:13-53
+84-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:55:13-53
 85            <meta-data
-85-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+85-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 86                android:name="android.support.PARENT_ACTIVITY"
-86-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+86-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 87                android:value="com.creativethoughts.iscore.HomeActivity" />
-87-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+87-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 88        </activity>
 89        <activity
-89-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:60:9-68:20
+89-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:60:9-68:20
 90            android:name="com.creativethoughts.iscore.FAQActivity"
-90-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:61:13-40
+90-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:61:13-40
 91            android:label="Frequently Asked Questions"
-91-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:62:13-55
+91-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:62:13-55
 92            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
-92-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:63:13-55
+92-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:63:13-55
 93            android:theme="@style/HomeActivityTheme" >
-93-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:64:13-53
+93-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:64:13-53
 94            <meta-data
-94-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+94-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 95                android:name="android.support.PARENT_ACTIVITY"
-95-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+95-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 96                android:value="com.creativethoughts.iscore.HomeActivity" />
-96-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+96-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 97        </activity>
 98        <activity
-98-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:69:9-78:20
+98-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:69:9-78:20
 99            android:name="com.creativethoughts.iscore.FeedbackActivity"
-99-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:70:13-45
+99-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:70:13-45
 100            android:label="Feedback"
-100-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:71:13-37
+100-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:71:13-37
 101            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
-101-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:72:13-55
+101-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:72:13-55
 102            android:theme="@style/HomeActivityTheme"
-102-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:73:13-53
+102-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:73:13-53
 103            android:windowSoftInputMode="stateHidden|adjustPan" >
-103-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:74:13-64
+103-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:74:13-64
 104            <meta-data
-104-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+104-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 105                android:name="android.support.PARENT_ACTIVITY"
-105-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+105-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 106                android:value="com.creativethoughts.iscore.HomeActivity" />
-106-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+106-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 107        </activity>
 108        <activity
-108-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:79:9-87:20
+108-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:79:9-87:20
 109            android:name="com.creativethoughts.iscore.ContactusActivity"
-109-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:80:13-46
+109-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:80:13-46
 110            android:label="Contact Us"
-110-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:81:13-39
+110-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:81:13-39
 111            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
-111-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:82:13-55
+111-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:82:13-55
 112            android:theme="@style/HomeActivityTheme" >
-112-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:83:13-53
+112-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:83:13-53
 113            <meta-data
-113-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+113-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 114                android:name="android.support.PARENT_ACTIVITY"
-114-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+114-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 115                android:value="com.creativethoughts.iscore.HomeActivity" />
-115-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+115-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 116        </activity>
 117        <activity
-117-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:88:9-96:20
+117-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:88:9-96:20
 118            android:name="com.creativethoughts.iscore.AboutUsActivity"
-118-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:89:13-44
+118-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:89:13-44
 119            android:label="About Us"
-119-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:90:13-37
+119-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:90:13-37
 120            android:parentActivityName="com.creativethoughts.iscore.MoreActivity"
-120-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:91:13-55
+120-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:91:13-55
 121            android:theme="@style/HomeActivityTheme" >
-121-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:92:13-53
+121-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:92:13-53
 122            <meta-data
-122-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+122-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 123                android:name="android.support.PARENT_ACTIVITY"
-123-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+123-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 124                android:value="com.creativethoughts.iscore.HomeActivity" />
-124-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+124-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 125        </activity>
 126        <activity
-126-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:97:9-101:59
+126-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:97:9-101:59
 127            android:name="com.creativethoughts.iscore.MoreActivity"
-127-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:98:13-41
+127-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:98:13-41
 128            android:label="More"
-128-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:99:13-33
+128-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:99:13-33
 129            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-129-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:100:13-55
+129-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:100:13-55
 130            android:theme="@style/AppTheme.NoActionBar" />
-130-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:101:13-56
+130-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:101:13-56
 131        <activity
-131-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:102:9-110:20
+131-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:102:9-110:20
 132            android:name="com.creativethoughts.iscore.ProfileActivity"
-132-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:103:13-44
+132-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:103:13-44
 133            android:label="Profile"
-133-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:104:13-36
+133-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:104:13-36
 134            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-134-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:105:13-55
+134-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:105:13-55
 135            android:theme="@style/HomeActivityTheme" >
-135-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:106:13-53
+135-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:106:13-53
 136            <meta-data
-136-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+136-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 137                android:name="android.support.PARENT_ACTIVITY"
-137-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+137-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 138                android:value="com.creativethoughts.iscore.HomeActivity" />
-138-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+138-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 139        </activity>
 140
 141        <meta-data
-141-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:112:9-114:71
+141-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:112:9-114:71
 142            android:name="com.google.android.geo.API_KEY"
-142-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:113:13-58
+142-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:113:13-58
 143            android:value="AIzaSyCrNhvainUKdUBq-C_0_b9vPhNqYRGvhL4" />
-143-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:114:13-68
+143-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:114:13-68
 144        <meta-data
-144-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:115:9-117:69
+144-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:115:9-117:69
 145            android:name="com.google.android.gms.version"
-145-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:116:13-58
+145-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:116:13-58
 146            android:value="@integer/google_play_services_version" />
-146-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:117:13-66
+146-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:117:13-66
 147
 148        <activity
-148-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:119:9-127:20
+148-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:119:9-127:20
 149            android:name="com.creativethoughts.iscore.BankActivity"
-149-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:120:13-41
+149-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:120:13-41
 150            android:label="Branch Location Details"
-150-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:121:13-52
+150-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:121:13-52
 151            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-151-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:122:13-55
+151-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:122:13-55
 152            android:theme="@style/HomeActivityTheme" >
-152-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:123:13-53
+152-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:123:13-53
 153            <meta-data
-153-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+153-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 154                android:name="android.support.PARENT_ACTIVITY"
-154-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+154-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 155                android:value="com.creativethoughts.iscore.HomeActivity" />
-155-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+155-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 156        </activity>
 157        <activity
-157-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:128:9-136:20
+157-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:128:9-136:20
 158            android:name="com.creativethoughts.iscore.SingleBranchActivity"
-158-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:129:13-49
+158-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:129:13-49
 159            android:label="Branch Details"
-159-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:130:13-43
+159-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:130:13-43
 160            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-160-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:131:13-55
+160-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:131:13-55
 161            android:theme="@style/HomeActivityTheme" >
-161-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:132:13-53
+161-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:132:13-53
 162            <meta-data
-162-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+162-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 163                android:name="android.support.PARENT_ACTIVITY"
-163-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+163-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 164                android:value="com.creativethoughts.iscore.HomeActivity" />
-164-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+164-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 165        </activity>
 166        <activity
-166-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:137:9-145:20
+166-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:137:9-145:20
 167            android:name="com.creativethoughts.iscore.DashboardtabActivity"
-167-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:138:13-49
+167-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:138:13-49
 168            android:label="Dash Board"
-168-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:139:13-39
+168-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:139:13-39
 169            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-169-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:140:13-55
+169-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:140:13-55
 170            android:theme="@style/HomeActivityTheme" >
-170-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:141:13-53
+170-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:141:13-53
 171            <meta-data
-171-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+171-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 172                android:name="android.support.PARENT_ACTIVITY"
-172-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+172-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 173                android:value="com.creativethoughts.iscore.HomeActivity" />
-173-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+173-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 174        </activity>
 175        <activity android:name="com.creativethoughts.iscore.BranchDetailsActivity" />
-175-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:146:9-59
-175-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:146:19-56
+175-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:146:9-59
+175-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:146:19-56
 176
 177        <provider
 178            android:name="androidx.core.content.FileProvider"
-178-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:149:13-62
+178-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:149:13-62
 179            android:authorities="com.mscore.koz_thal_kallu_chethu.fileprovider"
-179-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:150:13-64
+179-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:150:13-64
 180            android:exported="false"
-180-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:151:13-37
+180-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:151:13-37
 181            android:grantUriPermissions="true" >
-181-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:152:13-47
+181-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:152:13-47
 182            <meta-data
-182-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:153:13-155:58
+182-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:153:13-155:58
 183                android:name="android.support.FILE_PROVIDER_PATHS"
-183-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:154:17-67
+183-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:154:17-67
 184                android:resource="@xml/provider_paths" />
-184-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:155:17-55
+184-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:155:17-55
 185        </provider>
 186
 187        <activity
-187-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:158:9-161:56
+187-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:158:9-161:56
 188            android:name="com.creativethoughts.iscore.HomeActivity"
-188-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:159:13-41
+188-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:159:13-41
 189            android:label="Home"
-189-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:160:13-33
+189-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:160:13-33
 190            android:theme="@style/HomeActivityTheme" />
-190-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:161:13-53
+190-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:161:13-53
 191        <activity android:name="com.creativethoughts.iscore.RecieveAndValidateOTP" />
-191-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:162:9-59
-191-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:162:19-56
+191-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:162:9-59
+191-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:162:19-56
 192        <activity
-192-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:163:9-165:56
+192-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:163:9-165:56
 193            android:name="com.creativethoughts.iscore.TransactionDetailActivity"
-193-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:164:13-54
+193-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:164:13-54
 194            android:theme="@style/HomeActivityTheme" />
-194-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:165:13-53
+194-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:165:13-53
 195        <activity
-195-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:166:9-176:20
+195-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:166:9-176:20
 196            android:name="com.creativethoughts.iscore.UserRegistrationActivity"
-196-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:167:13-53
+196-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:167:13-53
 197            android:label="@string/app_name"
-197-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:168:13-45
+197-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:168:13-45
 198            android:theme="@style/AppTheme.NoActionBar" >
-198-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:169:13-56
+198-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:169:13-56
 199            <intent-filter>
-199-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:170:13-175:29
+199-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:170:13-175:29
 200                <action android:name="android.intent.action.MAIN" />
-200-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:171:17-69
-200-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:171:25-66
+200-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:171:17-69
+200-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:171:25-66
 201                <action android:name="android.intent.action.VIEW" />
-201-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:172:17-69
-201-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:172:25-66
+201-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:172:17-69
+201-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:172:25-66
 202
 203                <category android:name="android.intent.category.LAUNCHER" />
-203-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:174:17-77
-203-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:174:27-74
+203-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:174:17-77
+203-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:174:27-74
 204            </intent-filter>
 205        </activity>
 206        <activity
-206-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:177:9-185:20
+206-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:177:9-185:20
 207            android:name="com.creativethoughts.iscore.SearchResultActivity"
-207-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:178:13-49
+207-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:178:13-49
 208            android:label="@string/title_activity_search_result"
-208-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:179:13-65
+208-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:179:13-65
 209            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-209-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:180:13-55
+209-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:180:13-55
 210            android:theme="@style/HomeActivityTheme" >
-210-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:181:13-53
+210-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:181:13-53
 211            <meta-data
-211-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:47:13-49:76
+211-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
 212                android:name="android.support.PARENT_ACTIVITY"
-212-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:48:17-63
+212-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
 213                android:value="com.creativethoughts.iscore.HomeActivity" />
-213-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:49:17-73
+213-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
 214        </activity>
 215        <activity
-215-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:186:9-189:59
+215-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:186:9-189:59
 216            android:name="com.creativethoughts.iscore.PinLoginActivity"
-216-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:187:13-45
+216-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:187:13-45
 217            android:label="@string/title_activity_transaction_details"
-217-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:188:13-71
+217-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:13-71
 218            android:theme="@style/AppTheme.NoActionBar" />
-218-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:189:13-56
+218-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:13-56
 219
 220        <receiver
-220-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:191:9-198:20
+220-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:9-198:20
 221            android:name="com.creativethoughts.iscore.receiver.MScoreBootCompleteReceiver"
-221-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:192:13-64
+221-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:192:13-64
 222            android:enabled="true" >
-222-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:193:13-35
+222-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:193:13-35
 223            <intent-filter>
-223-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:194:13-197:29
+223-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:194:13-197:29
 224                <action android:name="android.intent.action.BOOT_COMPLETED" />
-224-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:195:17-79
-224-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:195:25-76
+224-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:17-79
+224-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:25-76
 225                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-225-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:196:17-79
-225-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:196:25-76
+225-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:17-79
+225-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:25-76
 226            </intent-filter>
 227        </receiver>
 228        <receiver android:name="com.creativethoughts.iscore.receiver.KeepUpdateBroadcastReceiver" />
-228-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:199:9-74
-228-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:199:19-71
+228-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:199:9-74
+228-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:199:19-71
 229        <receiver android:name="com.creativethoughts.iscore.receiver.SMSReceiver" >
-229-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:200:9-204:20
-229-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:200:19-55
+229-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:200:9-204:20
+229-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:200:19-55
 230            <intent-filter>
-230-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:201:13-203:29
+230-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:201:13-203:29
 231                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-231-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:202:17-82
-231-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:202:25-79
+231-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:17-82
+231-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:25-79
 232            </intent-filter>
 233        </receiver>
 234        <receiver
-234-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:205:9-211:20
+234-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:9-211:20
 235            android:name="com.creativethoughts.iscore.receiver.ConnectivityReceiver"
-235-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:206:13-58
+235-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:206:13-58
 236            android:enabled="true" >
-236-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:207:13-35
+236-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:207:13-35
 237            <intent-filter>
-237-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:208:13-210:29
+237-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:208:13-210:29
 238                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-238-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:196:17-79
-238-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:196:25-76
+238-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:17-79
+238-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:25-76
 239            </intent-filter>
 240        </receiver>
 241        <receiver
-241-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:212:9-218:20
+241-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:212:9-218:20
 242            android:name="com.creativethoughts.iscore.receiver.MySMSBroadcastReceiver"
-242-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:213:13-60
+242-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:213:13-60
 243            android:exported="true" >
-243-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:214:13-36
+243-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:214:13-36
 244            <intent-filter>
-244-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:215:13-217:29
+244-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:215:13-217:29
 245                <action android:name="com.google.android.gms.auth.api.phone.SMS_RETRIEVED" />
-245-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:216:17-94
-245-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:216:25-91
+245-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:17-94
+245-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:25-91
 246            </intent-filter>
 247        </receiver>
 248
 249        <activity
-249-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:220:9-222:59
+249-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:9-222:59
 250            android:name="com.creativethoughts.iscore.AddSenderReceiverActivity"
-250-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:221:13-54
+250-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:13-54
 251            android:theme="@style/AppTheme.NoActionBar" />
-251-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:222:13-56
+251-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:222:13-56
 252        <activity
-252-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:223:9-226:59
+252-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:223:9-226:59
 253            android:name="com.creativethoughts.iscore.TransactionOTPActivity"
-253-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:224:13-51
+253-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:224:13-51
 254            android:label="@string/title_activity_transaction_otp"
-254-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:225:13-67
+254-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:13-67
 255            android:theme="@style/AppTheme.NoActionBar" />
-255-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:226:13-56
+255-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:226:13-56
 256        <activity
-256-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:227:9-230:59
+256-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:227:9-230:59
 257            android:name="com.creativethoughts.iscore.ScannerActivity"
-257-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:228:13-44
+257-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:228:13-44
 258            android:label="@string/title_activity_scanner"
-258-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:229:13-59
+258-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:229:13-59
 259            android:theme="@style/AppTheme.NoActionBar" />
-259-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:230:13-56
+259-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:230:13-56
 260        <activity android:name="com.creativethoughts.iscore.AskPhonePermissionActivity" />
-260-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:231:9-64
-260-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:231:19-61
+260-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:9-64
+260-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:19-61
 261        <activity android:name="com.creativethoughts.iscore.TimeOutActivity" />
-261-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:232:9-53
-261-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:232:19-50
+261-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:9-53
+261-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:19-50
 262        <activity
-262-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:233:9-235:60
+262-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:233:9-235:60
 263            android:name="com.creativethoughts.iscore.kseb.KsebSectionSelectionActivity"
-263-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:234:13-62
+263-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:234:13-62
 264            android:theme="@style/PinLoginActivityTheme" />
-264-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:235:13-57
+264-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:235:13-57
 265        <activity android:name="com.creativethoughts.iscore.neftrtgs.NeftRtgsOtpActivity" />
-265-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:236:9-66
-265-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:236:19-63
+265-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:9-66
+265-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:19-63
 266        <activity
-266-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:237:9-239:59
+266-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:9-239:59
 267            android:name="com.creativethoughts.iscore.SplashScreen"
-267-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:238:13-41
+267-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:238:13-41
 268            android:theme="@style/AppTheme.NoActionBar" />
-268-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:239:13-56
+268-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:13-56
 269        <activity android:name="com.creativethoughts.iscore.QRcodegeneartionActivity" />
-269-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:240:9-62
-269-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:240:19-59
+269-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:240:9-62
+269-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:240:19-59
 270        <activity android:name="com.creativethoughts.iscore.BarcodegenerationActivity" />
-270-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:241:9-63
-270-->F:\ANUSREE\GIT WORKING COPY\MSCOREOLD\MSCORE\app\src\main\AndroidManifest.xml:241:19-60
+270-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:241:9-63
+270-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:241:19-60
 271        <activity
-271-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:48:9-54:63
+271-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:48:9-54:63
 272            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-272-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:49:13-74
+272-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:49:13-74
 273            android:clearTaskOnLaunch="true"
-273-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:50:13-45
+273-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:50:13-45
 274            android:screenOrientation="sensorLandscape"
-274-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:51:13-56
+274-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:51:13-56
 275            android:stateNotNeeded="true"
-275-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:52:13-42
+275-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:52:13-42
 276            android:theme="@style/zxing_CaptureTheme"
-276-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:53:13-54
+276-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:53:13-54
 277            android:windowSoftInputMode="stateAlwaysHidden" />
-277-->[com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\080ef696d4129e1ea50e10aac9c2a68f\jetified-zxing-android-embedded-3.0.2\AndroidManifest.xml:54:13-60
+277-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:54:13-60
 278        <activity
-278-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:23:9-27:75
+278-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:23:9-27:75
 279            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-279-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:24:13-93
+279-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:24:13-93
 280            android:excludeFromRecents="true"
-280-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:25:13-46
+280-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:25:13-46
 281            android:exported="false"
-281-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:26:13-37
+281-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:26:13-37
 282            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-282-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:27:13-72
+282-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:27:13-72
 283        <!--
 284            Service handling Google Sign-In user revocation. For apps that do not integrate with
 285            Google Sign-In, this service will never be started.
 286        -->
 287        <service
-287-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:33:9-36:110
+287-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:33:9-36:110
 288            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-288-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
+288-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:34:13-89
 289            android:exported="true"
-289-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:35:13-36
+289-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:35:13-36
 290            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-290-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\1db3cb53cc72b201e7ab8b68c8c9d39e\jetified-play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
+290-->[com.google.android.gms:play-services-auth:18.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/1db3cb53cc72b201e7ab8b68c8c9d39e/jetified-play-services-auth-18.0.0/AndroidManifest.xml:36:13-107
 291
 292        <activity
-292-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+292-->[com.google.android.gms:play-services-base:17.1.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/51f3efe2e1bd5600acc47d6eea2161ae/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
 293            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-293-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+293-->[com.google.android.gms:play-services-base:17.1.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/51f3efe2e1bd5600acc47d6eea2161ae/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 294            android:exported="false"
-294-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+294-->[com.google.android.gms:play-services-base:17.1.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/51f3efe2e1bd5600acc47d6eea2161ae/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
 295            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-295-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\anusree.PERFECTLIMITED\.gradle\caches\transforms-2\files-2.1\51f3efe2e1bd5600acc47d6eea2161ae\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+295-->[com.google.android.gms:play-services-base:17.1.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/51f3efe2e1bd5600acc47d6eea2161ae/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
 296    </application>
 297
 298</manifest>

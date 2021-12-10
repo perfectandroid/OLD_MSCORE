@@ -9,13 +9,13 @@ repositories {
 android {
 
     signingConfigs {
-        release {
+       /* release {
             storeFile file('D:\\Ranjith\\Mscore\\KalluchethuVyavasaya\\Kestore\\koz_thaluk_kallu_chethu_keystore_mscore.jks')
 
             storePassword '4JF3BKN9P2B83ZVU'
             keyAlias 'koz_thaluk_kallu_chethu'
             keyPassword 'HUDDGFQDDPFS22ET'
-        }
+        }*/
     }
     aaptOptions {
         cruncherEnabled = false
@@ -36,7 +36,7 @@ android {
     }
 
     buildTypes {
-        release {
+    /*  release  release {
             lintOptions {
                 disable 'MissingTranslation'
                 checkReleaseBuilds false
@@ -45,7 +45,7 @@ android {
             minifyEnabled false
             signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
+        }*/
         debug {
             testCoverageEnabled = true
         }

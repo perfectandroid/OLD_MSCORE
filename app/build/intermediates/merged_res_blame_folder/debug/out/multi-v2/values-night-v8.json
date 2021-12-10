@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\ANUSREE\\GIT WORKING COPY\\MSCOREOLD\\MSCORE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\anusree.PERFECTLIMITED\\.gradle\\caches\\transforms-2\\files-2.1\\2bc3f1658618b93362ac1fcb48269dad\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "/Users/macbookair/.gradle/caches/transforms-2/files-2.1/2bc3f1658618b93362ac1fcb48269dad/appcompat-1.2.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
