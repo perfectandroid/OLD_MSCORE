@@ -29,26 +29,6 @@ public final class CommonUtilities {
         throw new IllegalStateException("Illegal");
     }
 
-    private static final String BASE_URL_KEY = "iscore_base_url_key";
-
-   /* private static final String BASE_URL = Common.getBaseUrl();
-    private static final String URI = Common.getApiName();*/
-
-
-   /* public static String getBaseUrl() {
-        String tempBaserUrl = PreferenceUtil.getInstance().getStringValue(BASE_URL_KEY, "");
-
-        if(TextUtils.isEmpty(tempBaserUrl.trim())) {
-            return BASE_URL;
-        }
-
-        return tempBaserUrl;
-    }
-
-    public static String getUrl() {
-            return BASE_URL + URI;
-    }*/
-
     private static Date convertStingToDate(String inputDate) {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss a", Locale.getDefault());
         Date date = null;

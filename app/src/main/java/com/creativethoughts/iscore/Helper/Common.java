@@ -5,8 +5,8 @@ public class Common {
     public static final int timeInMillisecond=180000;
     private static final boolean HOSTNAMEVERFICATION_MANUAL=true;
 
-    private static final String HOSTNAME_SUBJECT="STATIC-VM";
-    private static final String CERTIFICATE_ASSET_NAME="mscoredemo.pem";
+    /*private static final String HOSTNAME_SUBJECT="STATIC-VM";
+    private static final String CERTIFICATE_ASSET_NAME="mscoredemo.pem";*/
    // private static final String BASE_URL="https://117.200.76.144:14001";
 
 /*
@@ -19,13 +19,13 @@ public class Common {
         return HOSTNAMEVERFICATION_MANUAL;
     }
 
-    public static String getHostnameSubject() {
+   /* public static String getHostnameSubject() {
         return HOSTNAME_SUBJECT;
     }
 
     public static String getCertificateAssetName() {
         return CERTIFICATE_ASSET_NAME;
-    }
+    }*/
 
  /*   public static String getBaseUrl() {
         return BASE_URL;

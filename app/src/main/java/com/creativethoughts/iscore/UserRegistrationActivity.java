@@ -52,7 +52,8 @@ public class UserRegistrationActivity extends AppCompatActivity {
     public static final String BASE_URL="https://202.164.150.65:14264/Mscore";
     public static final String BANK_KEY="d.22333";
     public static final String BANK_HEADER="PERFECT SCORE BANK HEAD OFFICE";
-
+    public static final String HOSTNAME_SUBJECT="STATIC-VM";
+    public static final String CERTIFICATE_ASSET_NAME="mscoredemo.pem";
 
     private static final int MY_PERMISSIONS_REQUEST_READ_PHONE_STATE = 100;
     private static final int PHONE_FETCHING = 200;
@@ -64,6 +65,7 @@ public class UserRegistrationActivity extends AppCompatActivity {
     private ArrayList<Integer> XMENArray = new ArrayList<Integer>();
 
     static String bank_Key, bank_Header;
+    static String host_nameCommon, asset_namecommon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -120,7 +122,6 @@ public class UserRegistrationActivity extends AppCompatActivity {
             SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
             baseurlEditer.putString("baseurl", BASE_URL );
             baseurlEditer.commit();
-
             SharedPreferences bankkeySP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
             SharedPreferences.Editor bankkeyEditer = bankkeySP.edit();
             bankkeyEditer.putString("bankkey", BANK_KEY);
@@ -129,6 +130,14 @@ public class UserRegistrationActivity extends AppCompatActivity {
             SharedPreferences.Editor bankheaderEditer = bankheaderSP.edit();
             bankheaderEditer.putString("bankheader", BANK_HEADER);
             bankheaderEditer.commit();
+            SharedPreferences hostnameSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0);
+            SharedPreferences.Editor hostnameEditer = hostnameSP.edit();
+            hostnameEditer.putString("hostname", HOSTNAME_SUBJECT);
+            hostnameEditer.commit();
+            SharedPreferences assetnameSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+            SharedPreferences.Editor assetnameEditer = assetnameSP.edit();
+            assetnameEditer.putString("certificateassetname", CERTIFICATE_ASSET_NAME);
+            assetnameEditer.commit();
 
             mMobileNumberET = findViewById(R.id.phoneno);
             init();
@@ -232,6 +241,9 @@ public class UserRegistrationActivity extends AppCompatActivity {
 
                     bank_Key = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0).getString("bankkey", null);
                     bank_Header =getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0).getString("bankheader", null);
+
+                    host_nameCommon = getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0).getString("hostname", null);
+                    asset_namecommon =getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0).getString("certificateassetname", null);
 
                     SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
                     String BASE_URL=pref.getString("baseurl", null);
@@ -442,6 +454,22 @@ public class UserRegistrationActivity extends AppCompatActivity {
     public static String getBankheader() {
         try {
             return bank_Header;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
+        }
+    }
+
+    public static String getHostnameSubject() {
+        try {
+            return host_nameCommon;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
+        }
+    }
+
+    public static String getCertificateAssetName() {
+        try {
+            return asset_namecommon;
         }catch (Exception e){
             return IScoreApplication.EXCEPTION_NOIEMI;
         }

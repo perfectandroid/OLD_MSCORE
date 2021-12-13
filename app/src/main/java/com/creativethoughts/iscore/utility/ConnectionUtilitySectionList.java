@@ -101,7 +101,7 @@ public class ConnectionUtilitySectionList {
                 if ( Build.VERSION.SDK_INT > Build.VERSION_CODES.O_MR1 ){
                     return true;
                 }else {
-                    return hv.verify(Common.getHostnameSubject()+"", session )  ;
+                    return hv.verify(UserRegistrationActivity.getHostnameSubject()+"", session )  ;
                 }
             };
 
@@ -109,7 +109,7 @@ public class ConnectionUtilitySectionList {
             CertificateFactory cf = CertificateFactory.getInstance("X.509");
 // From https://www.washington.edu/itconnect/security/ca/load-der.crt
             InputStream caInput =  IScoreApplication.getAppContext().
-                    getAssets().open(Common.getCertificateAssetName());
+                    getAssets().open(UserRegistrationActivity.getCertificateAssetName());
 
 
             Certificate ca;
