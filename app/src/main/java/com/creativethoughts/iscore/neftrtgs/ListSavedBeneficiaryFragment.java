@@ -1,6 +1,7 @@
 package com.creativethoughts.iscore.neftrtgs;
 
 
+import android.content.SharedPreferences;
 import android.os.Build;
 import android.os.Bundle;
 import android.transition.TransitionManager;
@@ -19,6 +20,7 @@ import androidx.fragment.app.FragmentTransaction;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.R;
 import com.creativethoughts.iscore.db.dao.UserDetailsDAO;
@@ -95,8 +97,10 @@ public class ListSavedBeneficiaryFragment extends Fragment implements View.OnCli
     }
     private void fetchBeneficiary(){
         try{
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             UserDetails user = UserDetailsDAO.getInstance( ).getUserDetail( );
-            String url = CommonUtilities.getUrl( );
+            String url =  BASE_URL+ "/api/MV3";
             url += "/NEFTRTGSGetReceiver?ID_Customer="+ IScoreApplication.encodedUrl(IScoreApplication.encryptStart( user.customerId  ) );
             hideAnim( false );
             NetworkManager.getInstance().connector(url, new ResponseManager() {
@@ -177,7 +181,9 @@ public class ListSavedBeneficiaryFragment extends Fragment implements View.OnCli
     }
     private void deleteBeneficiary( BeneficiaryDetailsModel beneficiaryDetailsModel, int index,
                                     ArrayList< BeneficiaryDetailsModel > beneficiaryDetailsModelList){
-        String baseUrl = CommonUtilities.getUrl();
+        SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+        String BASE_URL=pref.getString("baseurl", null);
+        String baseUrl =  BASE_URL+ "/api/MV3";
         try{
             baseUrl += "/NEFTRTGSDeleteReceiver?BeneName="+IScoreApplication.encodedUrl( beneficiaryDetailsModel.getBeneficiaryName( )  )+
                     "&BeneIFSC="+IScoreApplication.encodedUrl( beneficiaryDetailsModel.getBeneficiaryIfsc( )  )+

@@ -10,7 +10,7 @@
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 7,
+      "versionCode": 1,
       "versionName": "3.2.1",
       "outputFile": "app-debug.apk"
     }

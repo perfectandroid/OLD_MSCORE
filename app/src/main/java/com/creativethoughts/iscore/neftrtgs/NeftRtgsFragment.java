@@ -1,6 +1,7 @@
 package com.creativethoughts.iscore.neftrtgs;
 
 
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.InputFilter;
 import android.text.Spanned;
@@ -21,6 +22,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.R;
 import com.creativethoughts.iscore.custom_alert_dialogs.AlertMessageFragment;
@@ -325,7 +327,9 @@ public class NeftRtgsFragment extends Fragment implements View.OnClickListener {
 
     private String prepareUrlForPayment( PaymentModel paymentModel  ){
         mPaymentModel = paymentModel;
-        String url = CommonUtilities.getUrl( );
+        SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+        String BASE_URL=pref.getString("baseurl", null);
+        String url =  BASE_URL+ "/api/MV3";
         try{
 
             url += "/NEFTRTGSPayment?AccountNo="+IScoreApplication.encodedUrl(IScoreApplication.encryptStart( paymentModel.getAccNo( )  ) )+

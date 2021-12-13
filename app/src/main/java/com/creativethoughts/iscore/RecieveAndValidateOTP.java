@@ -94,8 +94,10 @@ public class RecieveAndValidateOTP extends Activity implements MySMSBroadcastRec
                     mSweetAlertDialog.setCancelable( false );
                     mSweetAlertDialog.show();
                     String otp = mEtVerificationCode.getText().toString();
+                    SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                    String BASE_URL=pref.getString("baseurl", null);
                     final String url =
-                            CommonUtilities.getUrl() + "/VerifyOTP?" +
+                            BASE_URL+ "/api/MV3" + "/VerifyOTP?" +
                                     "Mobno=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(userCredential.countryCode +
                                     userCredential.mobileNumber ))+
                                     "&OTP=" +  IScoreApplication.encodedUrl(IScoreApplication.encryptStart( otp )) +

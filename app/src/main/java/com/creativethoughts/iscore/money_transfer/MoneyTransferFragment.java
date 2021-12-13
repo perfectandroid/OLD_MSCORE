@@ -2,6 +2,7 @@ package com.creativethoughts.iscore.money_transfer;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.SharedPreferences;
 import android.graphics.Paint;
 import android.os.AsyncTask;
 import android.os.Build;
@@ -27,6 +28,7 @@ import androidx.appcompat.widget.AppCompatEditText;
 import androidx.fragment.app.Fragment;
 
 import com.creativethoughts.iscore.AddSenderReceiverActivity;
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.R;
 import com.creativethoughts.iscore.TransactionOTPFragment;
@@ -389,8 +391,10 @@ public class MoneyTransferFragment extends Fragment implements View.OnClickListe
             String accountType = accountInfo.accountTypeShort;
             /*End of Extract account number*/
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             String url =
-                    CommonUtilities.getUrl() +
+                    BASE_URL+ "/api/MV3" +
                             "/MoneyTransferPayment?senderid=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(sender.trim()))
                             + "&receiverid=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(receiver.trim()))
                             + "&IDCustomer=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(custId))
@@ -431,17 +435,19 @@ public class MoneyTransferFragment extends Fragment implements View.OnClickListe
         @Override
         protected ArrayList<SenderReceiver> doInBackground(String... params) {
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             UserDetails user = UserDetailsDAO.getInstance().getUserDetail();
 
             String custId = user.customerId;
 
             String url ;
             try {
-                url = CommonUtilities.getUrl() +
+                url =  BASE_URL+ "/api/MV3" +
                         "/GenerateSenderReceiverList?ID_Customer=" +
                         IScoreApplication.encodedUrl(IScoreApplication.encryptStart(custId));
             } catch (Exception e) {
-                url = CommonUtilities.getUrl() +
+                url =  BASE_URL+ "/api/MV3" +
                         "/GenerateSenderReceiverList?";
 
             }
@@ -696,8 +702,10 @@ public class MoneyTransferFragment extends Fragment implements View.OnClickListe
         }
         private String resendingOtp(String senderId){
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             try{
-                String url = CommonUtilities.getUrl() +
+                String url =  BASE_URL+ "/api/MV3" +
                         "/MTResendMPIN?senderid="+senderId;
                 return ConnectionUtil.getResponse(url);
 

@@ -4,6 +4,7 @@ import android.Manifest;
 import android.app.PendingIntent;
 import android.content.Intent;
 import android.content.IntentSender;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
@@ -22,6 +23,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.viewpager.widget.ViewPager;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.adapters.LoginBannerAdapter;
 import com.creativethoughts.iscore.db.dao.UserCredentialDAO;
 import com.creativethoughts.iscore.receiver.AppSignatureHelper;
@@ -47,6 +49,8 @@ import me.relex.circleindicator.CircleIndicator;
 import static com.creativethoughts.iscore.IScoreApplication.FLAG_NETWORK_EXCEPTION;
 
 public class UserRegistrationActivity extends AppCompatActivity {
+    public static final String BASE_URL="https://202.164.150.65:14264/Mscore";
+
 
     private static final int MY_PERMISSIONS_REQUEST_READ_PHONE_STATE = 100;
     private static final int PHONE_FETCHING = 200;
@@ -64,6 +68,13 @@ public class UserRegistrationActivity extends AppCompatActivity {
                 Manifest.permission.READ_PHONE_STATE)
                 != PackageManager.PERMISSION_GRANTED) {
             setContentView(R.layout.phone_permission_layout);
+
+
+            SharedPreferences baseurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
+            baseurlEditer.putString("baseurl", BASE_URL );
+            baseurlEditer.commit();
+
             Button mGoToSettingsBtn = findViewById(R.id.buttonOkayPhonePermission);
             assert mGoToSettingsBtn != null;
             mGoToSettingsBtn.setOnClickListener( v -> {
@@ -99,6 +110,11 @@ public class UserRegistrationActivity extends AppCompatActivity {
                 return;
             }
             setContentView(R.layout.activity_register_user);
+
+            SharedPreferences baseurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
+            baseurlEditer.putString("baseurl", BASE_URL );
+            baseurlEditer.commit();
             mMobileNumberET = findViewById(R.id.phoneno);
             init();
             queryPhoneNumber();
@@ -199,9 +215,11 @@ public class UserRegistrationActivity extends AppCompatActivity {
             else {
                 if (NetworkUtil.isOnline()) {
 
+                    SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                    String BASE_URL=pref.getString("baseurl", null);
                     try{
                         String url =
-                                CommonUtilities.getUrl() + "/PassBookAuthenticate?Mobno="+
+                                BASE_URL+ "/api/MV3"+"/PassBookAuthenticate?Mobno="+
                                         IScoreApplication.encodedUrl(IScoreApplication.encryptStart(countryCode+mobileNumber)) + "&Pin=" +
                                         IScoreApplication.encodedUrl(IScoreApplication.encryptStart("0000"))+"&IMEI=";
 //                                        +"&IMEI="+IScoreApplication.encodedUrl(IScoreApplication.encryptStart("123456789"));

@@ -3,6 +3,7 @@ package com.creativethoughts.iscore;
 import android.Manifest;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.os.Build;
@@ -19,6 +20,7 @@ import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.Retrofit.APIInterface;
 import com.creativethoughts.iscore.utility.DialogUtil;
 import com.creativethoughts.iscore.utility.NetworkUtil;
@@ -139,6 +141,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
             progressDialog.show();
 
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             try {
                 OkHttpClient client = new OkHttpClient.Builder()
                         .sslSocketFactory(getSSLSocketFactory())
@@ -148,7 +152,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
                         .setLenient()
                         .create();
                 Retrofit retrofit = new Retrofit.Builder()
-                        .baseUrl(Common.getBaseUrl())
+                        .baseUrl(BASE_URL+"/")
                         .addConverterFactory(ScalarsConverterFactory.create())
                         .addConverterFactory(GsonConverterFactory.create(gson))
                         .client(client)
@@ -478,6 +482,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
     }
 
     public void  showBranchDetails(String branchID){
+        SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+        String BASE_URL=pref.getString("baseurl", null);
         if (NetworkUtil.isOnline()) {
         progressDialog = new ProgressDialog(getActivity(), R.style.Progress);
         progressDialog.setProgressStyle(android.R.style.Widget_ProgressBar);
@@ -496,7 +502,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
                     .setLenient()
                     .create();
             Retrofit retrofit = new Retrofit.Builder()
-                    .baseUrl(Common.getBaseUrl())
+                    .baseUrl(BASE_URL+"/")
                     .addConverterFactory(ScalarsConverterFactory.create())
                     .addConverterFactory(GsonConverterFactory.create(gson))
                     .client(client)
