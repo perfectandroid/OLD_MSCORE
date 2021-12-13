@@ -861,8 +861,6 @@
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <integer name="viewfinder_border_length">60</integer>
     <integer name="viewfinder_border_width">4</integer>
-    <string name="BankHeader">PERFECT SCORE BANK HEAD OFFICE</string>
-    <string name="BankKey">d.22333</string>
     <string name="COMMON_ok">OK</string>
     <string name="LOADING">Loading...</string>
     <string name="Licencedby">LICENSED BY :</string>

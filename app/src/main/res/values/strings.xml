@@ -280,8 +280,8 @@
     <!--    <string name="app_link">https://play.google.com/store/apps/details?id=com.mscore.calicutcity&amp;hl=en_IN</string>-->
 
 <!--    Kozhikode Taluk Kalluchethu Vyavasaya Thozhilali Sahakaranana Sangham-->
-       <string name="BankKey">d.22333</string>
-       <string name="BankHeader">PERFECT SCORE BANK HEAD OFFICE</string>
+      <!-- <string name="BankKey">d.22333</string>
+       <string name="BankHeader">PERFECT SCORE BANK HEAD OFFICE</string>-->
     <string name="app_link">https://play.google.com/store/apps/details?id=com.mscore.koz_thal_kallu_chethu</string>
 
 

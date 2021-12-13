@@ -50,6 +50,8 @@ import static com.creativethoughts.iscore.IScoreApplication.FLAG_NETWORK_EXCEPTI
 
 public class UserRegistrationActivity extends AppCompatActivity {
     public static final String BASE_URL="https://202.164.150.65:14264/Mscore";
+    public static final String BANK_KEY="d.22333";
+    public static final String BANK_HEADER="PERFECT SCORE BANK HEAD OFFICE";
 
 
     private static final int MY_PERMISSIONS_REQUEST_READ_PHONE_STATE = 100;
@@ -60,6 +62,9 @@ public class UserRegistrationActivity extends AppCompatActivity {
     private static int currentPage = 0;
     private static final Integer[] XMEN= {R.drawable.banner1,R.drawable.banner2,R.drawable.banner3};
     private ArrayList<Integer> XMENArray = new ArrayList<Integer>();
+
+    static String bank_Key, bank_Header;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -115,6 +120,16 @@ public class UserRegistrationActivity extends AppCompatActivity {
             SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
             baseurlEditer.putString("baseurl", BASE_URL );
             baseurlEditer.commit();
+
+            SharedPreferences bankkeySP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+            SharedPreferences.Editor bankkeyEditer = bankkeySP.edit();
+            bankkeyEditer.putString("bankkey", BANK_KEY);
+            bankkeyEditer.commit();
+            SharedPreferences bankheaderSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+            SharedPreferences.Editor bankheaderEditer = bankheaderSP.edit();
+            bankheaderEditer.putString("bankheader", BANK_HEADER);
+            bankheaderEditer.commit();
+
             mMobileNumberET = findViewById(R.id.phoneno);
             init();
             queryPhoneNumber();
@@ -214,6 +229,9 @@ public class UserRegistrationActivity extends AppCompatActivity {
 
             else {
                 if (NetworkUtil.isOnline()) {
+
+                    bank_Key = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0).getString("bankkey", null);
+                    bank_Header =getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0).getString("bankheader", null);
 
                     SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
                     String BASE_URL=pref.getString("baseurl", null);
@@ -410,6 +428,22 @@ public class UserRegistrationActivity extends AppCompatActivity {
                     mMobileNumberET.setText(  phoneNum );
                 }
             }
+        }
+    }
+
+    public static String getBankkey() {
+        try {
+            return bank_Key;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
+        }
+    }
+
+    public static String getBankheader() {
+        try {
+            return bank_Header;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
         }
     }
 

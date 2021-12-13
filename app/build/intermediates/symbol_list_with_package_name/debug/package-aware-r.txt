@@ -2724,8 +2724,6 @@ mipmap technology_partner
 mipmap thumbs_up
 raw cloud
 raw zxing_beep
-string BankHeader
-string BankKey
 string COMMON_ok
 string LOADING
 string Licencedby

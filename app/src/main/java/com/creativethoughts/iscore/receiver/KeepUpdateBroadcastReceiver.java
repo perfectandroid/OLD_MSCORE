@@ -9,6 +9,7 @@ import android.text.TextUtils;
 import android.util.Log;
 
 import com.creativethoughts.iscore.Helper.Config;
+import com.creativethoughts.iscore.HomeActivity;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.NotificationMgr;
 import com.creativethoughts.iscore.db.dao.DbSync;
@@ -141,5 +142,11 @@ public class KeepUpdateBroadcastReceiver extends BroadcastReceiver {
 
         }
     }
+
+
+
+
+
+
 
 }
