@@ -11,10 +11,10 @@ INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCO
 	android:name
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:149:13-62
 manifest
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
-INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
-INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
-INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
+INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
+INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
+INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/4790429da5569b1e6fb8c4f4b371f33e/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/416f3194a97056b2c6dd430051488f71/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/e7eb48f9b7c3c34625ab4d5c5b575c05/material-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -73,22 +73,22 @@ MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/macbookair/.gradle/cac
 MERGED from [com.github.lecho:hellocharts-library:1.5.8] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/7028ec2d3290048b9e878d2097e5ea84/jetified-hellocharts-library-1.5.8/AndroidManifest.xml:2:1-11:12
 MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/0181e1291ea1cd52e30788ee5521d503/jetified-circleimageview-3.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [me.relex:circleindicator:1.2.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/3ead716ab5581ee772ae7059cc97fc19/jetified-circleindicator-1.2.2/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
-INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
-INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
+INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
+INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
+INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
 	package
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:4:5-42
 		INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
 		INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-244:12
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:1-246:12
 		INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:2:11-69
@@ -143,7 +143,7 @@ ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/
 	android:name
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:20:22-70
 application
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:22:5-242:19
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:22:5-244:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/416f3194a97056b2c6dd430051488f71/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/416f3194a97056b2c6dd430051488f71/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/e7eb48f9b7c3c34625ab4d5c5b575c05/material-1.0.0/AndroidManifest.xml:22:5-20
@@ -374,150 +374,150 @@ ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:165:13-53
 	android:name
 		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:164:13-54
-activity#com.creativethoughts.iscore.UserRegistrationActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:166:9-176:20
-	android:label
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:168:13-45
-	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:169:13-56
-	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:167:13-53
-intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:170:13-175:29
-action#android.intent.action.MAIN
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:171:17-69
-	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:171:25-66
-action#android.intent.action.VIEW
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:172:17-69
-	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:172:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:174:17-77
-	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:174:27-74
 activity#com.creativethoughts.iscore.SearchResultActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:177:9-185:20
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:166:9-174:20
 	android:parentActivityName
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:180:13-55
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:169:13-55
 	android:label
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:179:13-65
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:168:13-65
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:181:13-53
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:170:13-53
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:178:13-49
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:167:13-49
 activity#com.creativethoughts.iscore.PinLoginActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:186:9-189:59
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:175:9-178:59
 	android:label
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:13-71
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:177:13-71
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:13-56
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:178:13-56
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:187:13-45
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:176:13-45
 receiver#com.creativethoughts.iscore.receiver.MScoreBootCompleteReceiver
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:9-198:20
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:180:9-187:20
 	android:enabled
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:193:13-35
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:182:13-35
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:192:13-64
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:181:13-64
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:194:13-197:29
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:183:13-186:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:17-79
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:184:17-79
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:25-76
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:184:25-76
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:17-79
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:185:17-79
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:25-76
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:185:25-76
 receiver#com.creativethoughts.iscore.receiver.KeepUpdateBroadcastReceiver
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:199:9-74
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:9-74
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:199:19-71
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:19-71
 receiver#com.creativethoughts.iscore.receiver.SMSReceiver
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:200:9-204:20
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:9-193:20
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:200:19-55
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:19-55
 intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:201:13-203:29
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:190:13-192:29
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:17-82
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:17-82
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:25-79
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:25-79
 receiver#com.creativethoughts.iscore.receiver.ConnectivityReceiver
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:9-211:20
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:194:9-200:20
 	android:enabled
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:207:13-35
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:13-35
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:206:13-58
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:13-58
 intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:208:13-210:29
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:197:13-199:29
 receiver#com.creativethoughts.iscore.receiver.MySMSBroadcastReceiver
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:212:9-218:20
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:201:9-207:20
 	android:exported
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:214:13-36
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:203:13-36
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:213:13-60
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:13-60
 intent-filter#action:name:com.google.android.gms.auth.api.phone.SMS_RETRIEVED
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:215:13-217:29
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:204:13-206:29
 action#com.google.android.gms.auth.api.phone.SMS_RETRIEVED
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:17-94
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:17-94
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:25-91
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:25-91
 activity#com.creativethoughts.iscore.AddSenderReceiverActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:9-222:59
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:209:9-211:59
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:222:13-56
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:211:13-56
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:13-54
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:210:13-54
 activity#com.creativethoughts.iscore.TransactionOTPActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:223:9-226:59
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:212:9-215:59
 	android:label
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:13-67
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:214:13-67
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:226:13-56
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:215:13-56
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:224:13-51
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:213:13-51
 activity#com.creativethoughts.iscore.ScannerActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:227:9-230:59
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:9-219:59
 	android:label
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:229:13-59
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:218:13-59
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:230:13-56
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:219:13-56
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:228:13-44
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:217:13-44
 activity#com.creativethoughts.iscore.AskPhonePermissionActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:9-64
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:9-64
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:19-61
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:19-61
 activity#com.creativethoughts.iscore.TimeOutActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:9-53
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:9-53
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:19-50
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:19-50
 activity#com.creativethoughts.iscore.kseb.KsebSectionSelectionActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:233:9-235:60
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:222:9-224:60
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:235:13-57
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:224:13-57
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:234:13-62
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:223:13-62
 activity#com.creativethoughts.iscore.neftrtgs.NeftRtgsOtpActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:9-66
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:9-66
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:19-63
-activity#com.creativethoughts.iscore.SplashScreen
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:9-239:59
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:19-63
+activity#com.creativethoughts.iscore.UserRegistrationActivity
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:226:9-228:59
 	android:theme
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:13-56
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:228:13-56
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:238:13-41
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:227:13-53
+activity#com.creativethoughts.iscore.SplashScreen
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:9-241:20
+	android:label
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:233:13-45
+	android:theme
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:234:13-56
+	android:name
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:13-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:235:13-240:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:17-69
+	android:name
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:17-69
+	android:name
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:17-77
+	android:name
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:27-74
 activity#com.creativethoughts.iscore.QRcodegeneartionActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:240:9-62
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:242:9-62
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:240:19-59
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:242:19-59
 activity#com.creativethoughts.iscore.BarcodegenerationActivity
-ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:241:9-63
+ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:243:9-63
 	android:name
-		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:241:19-60
+		ADDED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:243:19-60
 uses-sdk
 INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml

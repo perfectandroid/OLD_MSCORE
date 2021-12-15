@@ -1,4 +1,4 @@
-#Mon Dec 13 17:33:01 IST 2021
+#Wed Dec 15 23:03:26 IST 2021
 base.1=/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 path.1=classes.dex
 base.0=/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex

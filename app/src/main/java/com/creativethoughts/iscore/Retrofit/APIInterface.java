@@ -61,4 +61,7 @@ public interface APIInterface {
     @POST("api/AccountSummary/BarcodeAgainstCustomerAccountDets")
     Call<String>getAccountList(@Body RequestBody body);
 
+    @POST("api/AccountSummary/ResellerDetails")
+    Call<String> getResellerDetails(@Body RequestBody body);
+
 }

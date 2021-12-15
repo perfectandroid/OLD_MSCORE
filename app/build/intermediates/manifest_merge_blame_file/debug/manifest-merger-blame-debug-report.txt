@@ -94,7 +94,7 @@
 49-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/3bbdc1d878b893a12ed8a981b5346145/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 50
 51    <application
-51-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:22:5-242:19
+51-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:22:5-244:19
 52        android:name="com.creativethoughts.iscore.IScoreApplication"
 52-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:23:9-42
 53        android:allowBackup="true"
@@ -365,158 +365,158 @@
 194            android:theme="@style/HomeActivityTheme" />
 194-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:165:13-53
 195        <activity
-195-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:166:9-176:20
-196            android:name="com.creativethoughts.iscore.UserRegistrationActivity"
-196-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:167:13-53
-197            android:label="@string/app_name"
-197-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:168:13-45
-198            android:theme="@style/AppTheme.NoActionBar" >
-198-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:169:13-56
-199            <intent-filter>
-199-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:170:13-175:29
-200                <action android:name="android.intent.action.MAIN" />
-200-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:171:17-69
-200-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:171:25-66
-201                <action android:name="android.intent.action.VIEW" />
-201-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:172:17-69
-201-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:172:25-66
-202
-203                <category android:name="android.intent.category.LAUNCHER" />
-203-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:174:17-77
-203-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:174:27-74
-204            </intent-filter>
-205        </activity>
-206        <activity
-206-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:177:9-185:20
-207            android:name="com.creativethoughts.iscore.SearchResultActivity"
-207-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:178:13-49
-208            android:label="@string/title_activity_search_result"
-208-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:179:13-65
-209            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
-209-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:180:13-55
-210            android:theme="@style/HomeActivityTheme" >
-210-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:181:13-53
-211            <meta-data
-211-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
-212                android:name="android.support.PARENT_ACTIVITY"
-212-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
-213                android:value="com.creativethoughts.iscore.HomeActivity" />
-213-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
-214        </activity>
-215        <activity
-215-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:186:9-189:59
-216            android:name="com.creativethoughts.iscore.PinLoginActivity"
-216-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:187:13-45
-217            android:label="@string/title_activity_transaction_details"
-217-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:13-71
-218            android:theme="@style/AppTheme.NoActionBar" />
-218-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:13-56
-219
-220        <receiver
-220-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:9-198:20
-221            android:name="com.creativethoughts.iscore.receiver.MScoreBootCompleteReceiver"
-221-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:192:13-64
-222            android:enabled="true" >
-222-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:193:13-35
-223            <intent-filter>
-223-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:194:13-197:29
-224                <action android:name="android.intent.action.BOOT_COMPLETED" />
-224-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:17-79
-224-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:25-76
-225                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-225-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:17-79
-225-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:25-76
-226            </intent-filter>
-227        </receiver>
-228        <receiver android:name="com.creativethoughts.iscore.receiver.KeepUpdateBroadcastReceiver" />
-228-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:199:9-74
-228-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:199:19-71
-229        <receiver android:name="com.creativethoughts.iscore.receiver.SMSReceiver" >
-229-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:200:9-204:20
-229-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:200:19-55
-230            <intent-filter>
-230-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:201:13-203:29
-231                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-231-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:17-82
-231-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:25-79
-232            </intent-filter>
-233        </receiver>
-234        <receiver
-234-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:9-211:20
-235            android:name="com.creativethoughts.iscore.receiver.ConnectivityReceiver"
-235-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:206:13-58
-236            android:enabled="true" >
-236-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:207:13-35
-237            <intent-filter>
-237-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:208:13-210:29
-238                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-238-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:17-79
-238-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:25-76
-239            </intent-filter>
-240        </receiver>
-241        <receiver
-241-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:212:9-218:20
-242            android:name="com.creativethoughts.iscore.receiver.MySMSBroadcastReceiver"
-242-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:213:13-60
-243            android:exported="true" >
-243-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:214:13-36
-244            <intent-filter>
-244-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:215:13-217:29
-245                <action android:name="com.google.android.gms.auth.api.phone.SMS_RETRIEVED" />
-245-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:17-94
-245-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:25-91
-246            </intent-filter>
-247        </receiver>
-248
-249        <activity
-249-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:9-222:59
-250            android:name="com.creativethoughts.iscore.AddSenderReceiverActivity"
-250-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:13-54
-251            android:theme="@style/AppTheme.NoActionBar" />
-251-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:222:13-56
-252        <activity
-252-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:223:9-226:59
-253            android:name="com.creativethoughts.iscore.TransactionOTPActivity"
-253-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:224:13-51
-254            android:label="@string/title_activity_transaction_otp"
-254-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:13-67
-255            android:theme="@style/AppTheme.NoActionBar" />
-255-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:226:13-56
-256        <activity
-256-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:227:9-230:59
-257            android:name="com.creativethoughts.iscore.ScannerActivity"
-257-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:228:13-44
-258            android:label="@string/title_activity_scanner"
-258-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:229:13-59
-259            android:theme="@style/AppTheme.NoActionBar" />
-259-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:230:13-56
-260        <activity android:name="com.creativethoughts.iscore.AskPhonePermissionActivity" />
-260-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:9-64
-260-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:19-61
-261        <activity android:name="com.creativethoughts.iscore.TimeOutActivity" />
-261-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:9-53
-261-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:19-50
-262        <activity
-262-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:233:9-235:60
-263            android:name="com.creativethoughts.iscore.kseb.KsebSectionSelectionActivity"
-263-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:234:13-62
-264            android:theme="@style/PinLoginActivityTheme" />
-264-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:235:13-57
-265        <activity android:name="com.creativethoughts.iscore.neftrtgs.NeftRtgsOtpActivity" />
-265-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:9-66
-265-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:19-63
-266        <activity
-266-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:9-239:59
-267            android:name="com.creativethoughts.iscore.SplashScreen"
-267-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:238:13-41
-268            android:theme="@style/AppTheme.NoActionBar" />
-268-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:13-56
+195-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:166:9-174:20
+196            android:name="com.creativethoughts.iscore.SearchResultActivity"
+196-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:167:13-49
+197            android:label="@string/title_activity_search_result"
+197-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:168:13-65
+198            android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
+198-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:169:13-55
+199            android:theme="@style/HomeActivityTheme" >
+199-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:170:13-53
+200            <meta-data
+200-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:47:13-49:76
+201                android:name="android.support.PARENT_ACTIVITY"
+201-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:48:17-63
+202                android:value="com.creativethoughts.iscore.HomeActivity" />
+202-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:49:17-73
+203        </activity>
+204        <activity
+204-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:175:9-178:59
+205            android:name="com.creativethoughts.iscore.PinLoginActivity"
+205-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:176:13-45
+206            android:label="@string/title_activity_transaction_details"
+206-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:177:13-71
+207            android:theme="@style/AppTheme.NoActionBar" />
+207-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:178:13-56
+208
+209        <receiver
+209-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:180:9-187:20
+210            android:name="com.creativethoughts.iscore.receiver.MScoreBootCompleteReceiver"
+210-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:181:13-64
+211            android:enabled="true" >
+211-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:182:13-35
+212            <intent-filter>
+212-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:183:13-186:29
+213                <action android:name="android.intent.action.BOOT_COMPLETED" />
+213-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:184:17-79
+213-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:184:25-76
+214                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+214-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:185:17-79
+214-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:185:25-76
+215            </intent-filter>
+216        </receiver>
+217        <receiver android:name="com.creativethoughts.iscore.receiver.KeepUpdateBroadcastReceiver" />
+217-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:9-74
+217-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:188:19-71
+218        <receiver android:name="com.creativethoughts.iscore.receiver.SMSReceiver" >
+218-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:9-193:20
+218-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:189:19-55
+219            <intent-filter>
+219-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:190:13-192:29
+220                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+220-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:17-82
+220-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:191:25-79
+221            </intent-filter>
+222        </receiver>
+223        <receiver
+223-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:194:9-200:20
+224            android:name="com.creativethoughts.iscore.receiver.ConnectivityReceiver"
+224-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:195:13-58
+225            android:enabled="true" >
+225-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:196:13-35
+226            <intent-filter>
+226-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:197:13-199:29
+227                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+227-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:185:17-79
+227-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:185:25-76
+228            </intent-filter>
+229        </receiver>
+230        <receiver
+230-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:201:9-207:20
+231            android:name="com.creativethoughts.iscore.receiver.MySMSBroadcastReceiver"
+231-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:202:13-60
+232            android:exported="true" >
+232-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:203:13-36
+233            <intent-filter>
+233-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:204:13-206:29
+234                <action android:name="com.google.android.gms.auth.api.phone.SMS_RETRIEVED" />
+234-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:17-94
+234-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:205:25-91
+235            </intent-filter>
+236        </receiver>
+237
+238        <activity
+238-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:209:9-211:59
+239            android:name="com.creativethoughts.iscore.AddSenderReceiverActivity"
+239-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:210:13-54
+240            android:theme="@style/AppTheme.NoActionBar" />
+240-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:211:13-56
+241        <activity
+241-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:212:9-215:59
+242            android:name="com.creativethoughts.iscore.TransactionOTPActivity"
+242-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:213:13-51
+243            android:label="@string/title_activity_transaction_otp"
+243-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:214:13-67
+244            android:theme="@style/AppTheme.NoActionBar" />
+244-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:215:13-56
+245        <activity
+245-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:216:9-219:59
+246            android:name="com.creativethoughts.iscore.ScannerActivity"
+246-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:217:13-44
+247            android:label="@string/title_activity_scanner"
+247-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:218:13-59
+248            android:theme="@style/AppTheme.NoActionBar" />
+248-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:219:13-56
+249        <activity android:name="com.creativethoughts.iscore.AskPhonePermissionActivity" />
+249-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:9-64
+249-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:220:19-61
+250        <activity android:name="com.creativethoughts.iscore.TimeOutActivity" />
+250-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:9-53
+250-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:221:19-50
+251        <activity
+251-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:222:9-224:60
+252            android:name="com.creativethoughts.iscore.kseb.KsebSectionSelectionActivity"
+252-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:223:13-62
+253            android:theme="@style/PinLoginActivityTheme" />
+253-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:224:13-57
+254        <activity android:name="com.creativethoughts.iscore.neftrtgs.NeftRtgsOtpActivity" />
+254-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:9-66
+254-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:225:19-63
+255        <activity
+255-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:226:9-228:59
+256            android:name="com.creativethoughts.iscore.UserRegistrationActivity"
+256-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:227:13-53
+257            android:theme="@style/AppTheme.NoActionBar" />
+257-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:228:13-56
+258        <activity
+258-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:231:9-241:20
+259            android:name="com.creativethoughts.iscore.SplashScreen"
+259-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:232:13-41
+260            android:label="@string/app_name"
+260-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:233:13-45
+261            android:theme="@style/AppTheme.NoActionBar" >
+261-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:234:13-56
+262            <intent-filter>
+262-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:235:13-240:29
+263                <action android:name="android.intent.action.MAIN" />
+263-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:17-69
+263-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:236:25-66
+264                <action android:name="android.intent.action.VIEW" />
+264-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:17-69
+264-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:237:25-66
+265
+266                <category android:name="android.intent.category.LAUNCHER" />
+266-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:17-77
+266-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:239:27-74
+267            </intent-filter>
+268        </activity>
 269        <activity android:name="com.creativethoughts.iscore.QRcodegeneartionActivity" />
-269-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:240:9-62
-269-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:240:19-59
+269-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:242:9-62
+269-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:242:19-59
 270        <activity android:name="com.creativethoughts.iscore.BarcodegenerationActivity" />
-270-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:241:9-63
-270-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:241:19-60
+270-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:243:9-63
+270-->/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/AndroidManifest.xml:243:19-60
 271        <activity
 271-->[com.journeyapps:zxing-android-embedded:3.0.2] /Users/macbookair/.gradle/caches/transforms-2/files-2.1/671be6cec3d0e1855e88b3044da47f04/jetified-zxing-android-embedded-3.0.2/AndroidManifest.xml:48:9-54:63
 272            android:name="com.journeyapps.barcodescanner.CaptureActivity"

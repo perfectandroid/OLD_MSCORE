@@ -28,12 +28,12 @@
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/btnbg.png"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_ic_directions.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/ic_directions.xml"
-    },
-    {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-mdpi_fundtransfer.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-mdpi/fundtransfer.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_ic_directions.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/ic_directions.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_thumbs_up.png.flat",
@@ -88,20 +88,20 @@
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-mdpi/ic_search.png"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_recharge.png.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xhdpi/ic_action_recharge.png"
-    },
-    {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_landline.png.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxxhdpi/landline.png"
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_ic_location.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/ic_location.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-nodpi_show_pwd_btn.xml.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-nodpi/show_pwd_btn.xml"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_ic_location.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/ic_location.xml"
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_landline.png.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxxhdpi/landline.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_recharge.png.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xhdpi/ic_action_recharge.png"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_custom_neft_mode_choose_button.xml.flat",
@@ -124,12 +124,12 @@
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/fragment_barcode_test.xml"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_layout_duedate.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/layout_duedate.xml"
-    },
-    {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_ic_email_blue.xml.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/ic_email_blue.xml"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_layout_duedate.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/layout_duedate.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_phone.png.flat",
@@ -236,12 +236,12 @@
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/custom_neft_choosed_shadow.xml"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_recharge.png.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xxhdpi/ic_action_recharge.png"
-    },
-    {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_recharge.png.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xxhdpi/ic_action_recharge.png"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_impsneft.png.flat",
@@ -260,12 +260,12 @@
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-mdpi/ic_calendar.png"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_zaark_custom_dialog.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/zaark_custom_dialog.xml"
-    },
-    {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_right_arrow.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxxhdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_zaark_custom_dialog.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/zaark_custom_dialog.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-hdpi_qr_code.png.flat",
@@ -320,40 +320,40 @@
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/activity_profile.xml"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_side_nav.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/side_nav.xml"
-    },
-    {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-mdpi_changepin.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-mdpi/changepin.png"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_setting_calender.png.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxxhdpi/setting_calender.png"
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_side_nav.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/side_nav.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_fragment_menu_card.xml.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/fragment_menu_card.xml"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_circular_spinner.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/circular_spinner.xml"
-    },
-    {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_share.png.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxhdpi/share.png"
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_setting_calender.png.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxxhdpi/setting_calender.png"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_user.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xhdpi/ic_user.png"
     },
     {
-        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_fragment_message_alert.xml.flat",
-        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/fragment_message_alert.xml"
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_share.png.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xxhdpi/share.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_circular_spinner.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/circular_spinner.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xhdpi_account.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-xhdpi/account.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/layout_fragment_message_alert.xml.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/layout/fragment_message_alert.xml"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_phone.png.flat",
@@ -778,6 +778,10 @@
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-hdpi_thumbs_up.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/mipmap-hdpi/thumbs_up.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xhdpi_splash_bg.jpg.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xhdpi/splash_bg.jpg"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_settings.png.flat",
@@ -1950,6 +1954,10 @@
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable-xxhdpi_phone.png.flat",
         "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable-xxhdpi/phone.png"
+    },
+    {
+        "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_splash_bg.jpg.flat",
+        "source": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/src/main/res/drawable/splash_bg.jpg"
     },
     {
         "merged": "/Users/macbookair/Desktop/WORK SPACE/PERFECT WORKING COPY/OLD_MSCORE/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",

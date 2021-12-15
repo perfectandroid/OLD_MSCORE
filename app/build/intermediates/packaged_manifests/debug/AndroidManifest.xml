@@ -193,17 +193,6 @@
             android:name="com.creativethoughts.iscore.TransactionDetailActivity"
             android:theme="@style/HomeActivityTheme" />
         <activity
-            android:name="com.creativethoughts.iscore.UserRegistrationActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
             android:name="com.creativethoughts.iscore.SearchResultActivity"
             android:label="@string/title_activity_search_result"
             android:parentActivityName="com.creativethoughts.iscore.HomeActivity"
@@ -264,8 +253,19 @@
             android:theme="@style/PinLoginActivityTheme" />
         <activity android:name="com.creativethoughts.iscore.neftrtgs.NeftRtgsOtpActivity" />
         <activity
-            android:name="com.creativethoughts.iscore.SplashScreen"
+            android:name="com.creativethoughts.iscore.UserRegistrationActivity"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.creativethoughts.iscore.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name="com.creativethoughts.iscore.QRcodegeneartionActivity" />
         <activity android:name="com.creativethoughts.iscore.BarcodegenerationActivity" />
         <activity
