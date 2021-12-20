@@ -50,6 +50,7 @@ public class ConnectionUtil {
     public static String getResponse(String url) {
 
 
+
         String bankKey      = UserRegistrationActivity.getBankkey();
         String bankHeader   = UserRegistrationActivity.getBankheader();
         String bankVerified = BankVerifier.getInstance().getVerifyStatus();
