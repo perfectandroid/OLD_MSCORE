@@ -336,6 +336,8 @@ public class PinLoginActivity extends AppCompatActivity implements View.OnClickL
     }
 
     private void logout(){
+
+
         /*UserCredentialDAO.getInstance().deleteAllUserData();
         UserDetailsDAO.getInstance().deleteAllRows();
         PBAccountInfoDAO.getInstance().deleteAllRows();

@@ -1600,6 +1600,7 @@ drawable shape
 drawable show_pwd_btn
 drawable side_nav
 drawable spinner_arrow
+drawable splash_bg
 drawable standinginstructions
 drawable stel
 drawable success_bow
@@ -1966,7 +1967,6 @@ id imSeperator
 id im_back
 id image
 id imageView
-id imageView4
 id img1
 id img2
 id img3
@@ -2352,6 +2352,7 @@ id tvText
 id tvTitle
 id tv_abt_us
 id tv_contact_us
+id tv_error_message
 id tv_faq
 id tv_feat
 id tv_feed_back
@@ -2724,8 +2725,6 @@ mipmap technology_partner
 mipmap thumbs_up
 raw cloud
 raw zxing_beep
-string BankHeader
-string BankKey
 string COMMON_ok
 string LOADING
 string Licencedby

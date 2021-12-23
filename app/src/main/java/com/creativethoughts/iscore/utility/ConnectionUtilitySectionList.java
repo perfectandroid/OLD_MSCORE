@@ -1,14 +1,18 @@
 package com.creativethoughts.iscore.utility;
 
 import android.Manifest;
+import android.app.Activity;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.util.Log;
 
 import androidx.core.content.ContextCompat;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.R;
+import com.creativethoughts.iscore.UserRegistrationActivity;
 import com.creativethoughts.iscore.db.dao.BankVerifier;
 
 import java.io.BufferedInputStream;
@@ -43,8 +47,12 @@ public class ConnectionUtilitySectionList {
     }
     public static String getResponse(String url) {
 
-        String bankKey      = IScoreApplication.getAppContext().getResources().getString(R.string.BankKey);
-        String bankHeader   = IScoreApplication.getAppContext().getResources().getString( R.string.BankHeader );
+
+        String bankKey      = UserRegistrationActivity.getBankkey();
+        String bankHeader   = UserRegistrationActivity.getBankheader();
+
+//        String bankKey      = IScoreApplication.getAppContext().getResources().getString(R.string.BankKey);
+//        String bankHeader   = IScoreApplication.getAppContext().getResources().getString( R.string.BankHeader );
         String bankVerified = BankVerifier.getInstance().getVerifyStatus();
 
         if (ContextCompat.checkSelfPermission(IScoreApplication.getAppContext(),
@@ -93,7 +101,7 @@ public class ConnectionUtilitySectionList {
                 if ( Build.VERSION.SDK_INT > Build.VERSION_CODES.O_MR1 ){
                     return true;
                 }else {
-                    return hv.verify(Common.getHostnameSubject()+"", session )  ;
+                    return hv.verify(UserRegistrationActivity.getHostnameSubject()+"", session )  ;
                 }
             };
 
@@ -101,7 +109,7 @@ public class ConnectionUtilitySectionList {
             CertificateFactory cf = CertificateFactory.getInstance("X.509");
 // From https://www.washington.edu/itconnect/security/ca/load-der.crt
             InputStream caInput =  IScoreApplication.getAppContext().
-                    getAssets().open(Common.getCertificateAssetName());
+                    getAssets().open(UserRegistrationActivity.getCertificateAssetName());
 
 
             Certificate ca;

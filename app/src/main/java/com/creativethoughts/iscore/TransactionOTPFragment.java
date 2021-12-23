@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -17,6 +18,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatEditText;
 import androidx.fragment.app.Fragment;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.money_transfer.AddSenderReceiverResponseModel;
 import com.creativethoughts.iscore.money_transfer.MoneyTransferResponseModel;
 import com.creativethoughts.iscore.utility.CommonUtilities;
@@ -179,9 +181,11 @@ public class TransactionOTPFragment extends Fragment implements View.OnClickList
 
             final String url;
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             if (mIsForTransaction) {
                 url =
-                        CommonUtilities.getUrl() + "/MTVerifyPaymentOTP?senderid=" +
+                        BASE_URL+ "/api/MV3" + "/MTVerifyPaymentOTP?senderid=" +
                                 IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mSenderId))
                                 + "&receiverid=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mReceiverId))
                                 + "&transcationID=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mTransactionId))
@@ -190,7 +194,7 @@ public class TransactionOTPFragment extends Fragment implements View.OnClickList
             } else {
                 if ( mIsSender ){
                     url =
-                            CommonUtilities.getUrl() + "/MTVerifySenderOTP?senderid=" +
+                            BASE_URL+ "/api/MV3" + "/MTVerifySenderOTP?senderid=" +
                                     IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mSenderId))
                                     + "&OTP=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(otp.trim()))+"&otpRefNo="+
                                     IScoreApplication.encodedUrl( IScoreApplication.encryptStart( mOtpReferenceNo.trim() ))+
@@ -199,7 +203,7 @@ public class TransactionOTPFragment extends Fragment implements View.OnClickList
                 else {
                     url =
 
-                            CommonUtilities.getUrl() + "/MTVerifyReceiverOTP?senderid=" +
+                            BASE_URL+ "/api/MV3" + "/MTVerifyReceiverOTP?senderid=" +
                                     IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mAddSenderReceiverResponseModel.getIdSender()))+
                                     "&receiverid="+IScoreApplication.encodedUrl( IScoreApplication.encryptStart(mAddSenderReceiverResponseModel.getIdReceiver()))
                                     + "&OTP=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(otp.trim()))+"&otpRefNo="+

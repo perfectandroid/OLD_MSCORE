@@ -3,6 +3,7 @@ package com.creativethoughts.iscore;
 import android.Manifest;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.os.Build;
@@ -19,6 +20,7 @@ import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 import androidx.fragment.app.Fragment;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.Retrofit.APIInterface;
 import com.creativethoughts.iscore.utility.DialogUtil;
 import com.creativethoughts.iscore.utility.NetworkUtil;
@@ -139,6 +141,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
             progressDialog.show();
 
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             try {
                 OkHttpClient client = new OkHttpClient.Builder()
                         .sslSocketFactory(getSSLSocketFactory())
@@ -148,7 +152,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
                         .setLenient()
                         .create();
                 Retrofit retrofit = new Retrofit.Builder()
-                        .baseUrl(Common.getBaseUrl())
+                        .baseUrl(BASE_URL+"/")
                         .addConverterFactory(ScalarsConverterFactory.create())
                         .addConverterFactory(GsonConverterFactory.create(gson))
                         .client(client)
@@ -159,8 +163,12 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
                 try {
 
                     requestObject1.put("ReqMode", reqmode);
-                    requestObject1.put("BankKey",IScoreApplication.encryptStart(getResources().getString(R.string.BankKey)));
-                    requestObject1.put("BankHeader",IScoreApplication.encryptStart(getResources().getString(R.string.BankHeader)));
+                    SharedPreferences bankkeypref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+                    String BankKey=bankkeypref.getString("bankkey", null);
+                    SharedPreferences bankheaderpref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+                    String BankHeader=bankheaderpref.getString("bankheader", null);
+                    requestObject1.put("BankKey",IScoreApplication.encryptStart(BankKey));
+                    requestObject1.put("BankHeader",IScoreApplication.encryptStart(BankHeader));
 
 
                 } catch (Exception e) {
@@ -355,11 +363,13 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
             throws CertificateException, KeyStoreException, IOException,
             NoSuchAlgorithmException,
             KeyManagementException {
+        SharedPreferences sslnamepref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+        String asset_Name=sslnamepref.getString("certificateassetname", null);
         CertificateFactory cf = CertificateFactory.getInstance("X.509");
         //  InputStream caInput = getResources().openRawResource(Common.getCertificateAssetName());
         // File path: app\src\main\res\raw\your_cert.cer
         InputStream caInput =  IScoreApplication.getAppContext().
-                getAssets().open(Common.getCertificateAssetName());
+                getAssets().open(asset_Name);
         Certificate ca = cf.generateCertificate(caInput);
         caInput.close();
         KeyStore keyStore = KeyStore.getInstance("BKS");
@@ -478,6 +488,8 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
     }
 
     public void  showBranchDetails(String branchID){
+        SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+        String BASE_URL=pref.getString("baseurl", null);
         if (NetworkUtil.isOnline()) {
         progressDialog = new ProgressDialog(getActivity(), R.style.Progress);
         progressDialog.setProgressStyle(android.R.style.Widget_ProgressBar);
@@ -496,7 +508,7 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
                     .setLenient()
                     .create();
             Retrofit retrofit = new Retrofit.Builder()
-                    .baseUrl(Common.getBaseUrl())
+                    .baseUrl(BASE_URL+"/")
                     .addConverterFactory(ScalarsConverterFactory.create())
                     .addConverterFactory(GsonConverterFactory.create(gson))
                     .client(client)
@@ -510,8 +522,12 @@ public class MapsFragment extends Fragment implements OnMapReadyCallback, Locati
 
                 requestObject1.put("ReqMode",reqmode);
                 requestObject1.put("ID_Branch",id2);
-                requestObject1.put("BankKey",IScoreApplication.encryptStart(getResources().getString(R.string.BankKey)));
-                requestObject1.put("BankHeader",IScoreApplication.encryptStart(getResources().getString(R.string.BankHeader)));
+                SharedPreferences bankkeypref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+                String BankKey=bankkeypref.getString("bankkey", null);
+                SharedPreferences bankheaderpref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+                String BankHeader=bankheaderpref.getString("bankheader", null);
+                requestObject1.put("BankKey",IScoreApplication.encryptStart(BankKey));
+                requestObject1.put("BankHeader",IScoreApplication.encryptStart(BankHeader));
 
             } catch (Exception e) {
                 e.printStackTrace();

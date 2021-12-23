@@ -3,6 +3,7 @@ package com.creativethoughts.iscore;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
@@ -14,6 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.db.dao.PBMessagesDAO;
 import com.creativethoughts.iscore.db.dao.UserDetailsDAO;
 import com.creativethoughts.iscore.db.dao.model.UserDetails;
@@ -254,10 +256,12 @@ public class HomeActivity extends AppCompatActivity implements NavigationDrawerC
 
     private void versionCheck(){
         if (NetworkUtil.isOnline()) {
+            SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             int versionNumber = getCurrentVersionNumber(HomeActivity.this);
             String url;
             try{
-                url = CommonUtilities.getUrl() +
+                url =  BASE_URL+ "/api/MV3"+
                         "/Checkstatus?versionNo="+
                         IScoreApplication.encodedUrl(IScoreApplication.encryptStart(versionNumber +""));
             }catch ( Exception e ){

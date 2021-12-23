@@ -1,6 +1,8 @@
 package com.creativethoughts.iscore.utility;
 
 import android.Manifest;
+import android.app.Activity;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.util.Log;
@@ -8,8 +10,10 @@ import android.util.Log;
 import androidx.core.content.ContextCompat;
 
 import com.creativethoughts.iscore.Helper.Common;
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.R;
+import com.creativethoughts.iscore.UserRegistrationActivity;
 import com.creativethoughts.iscore.db.dao.BankVerifier;
 import com.creativethoughts.iscore.db.dao.UserCredentialDAO;
 
@@ -47,8 +51,8 @@ public class ConnectionUtil {
 
 
 
-        String bankKey      = IScoreApplication.getAppContext().getResources().getString( R.string.BankKey );
-        String bankHeader   = IScoreApplication.getAppContext().getResources().getString( R.string.BankHeader );
+        String bankKey      = UserRegistrationActivity.getBankkey();
+        String bankHeader   = UserRegistrationActivity.getBankheader();
         String bankVerified = BankVerifier.getInstance().getVerifyStatus();
 
         if ( ContextCompat.checkSelfPermission(IScoreApplication.getAppContext(), Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
@@ -99,14 +103,14 @@ public class ConnectionUtil {
                 if ( Build.VERSION.SDK_INT > Build.VERSION_CODES.O_MR1 ){
                     return true;
                 }else {
-                    return hv.verify(Common.getHostnameSubject()+"", session )  ;
+                    return hv.verify(UserRegistrationActivity.getHostnameSubject()+"", session )  ;
                 }
             };
             updateURL = new URL(url);
             CertificateFactory cf = CertificateFactory.getInstance("X.509");
 
             InputStream caInput =  IScoreApplication.getAppContext().
-                    getAssets().open( Common.getCertificateAssetName());
+                    getAssets().open( UserRegistrationActivity.getCertificateAssetName());
           /* InputStream caInput = IScoreApplication.getAppContext().getResources().openRawResource(
                    IScoreApplication.getAppContext().getResources().getIdentifier("sample",
                            "raw", IScoreApplication.getAppContext().getPackageName()));*/

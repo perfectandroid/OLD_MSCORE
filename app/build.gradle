@@ -9,13 +9,13 @@ repositories {
 android {
 
     signingConfigs {
-        release {
+       /* release {
             storeFile file('D:\\Ranjith\\Mscore\\KalluchethuVyavasaya\\Kestore\\koz_thaluk_kallu_chethu_keystore_mscore.jks')
 
             storePassword '4JF3BKN9P2B83ZVU'
             keyAlias 'koz_thaluk_kallu_chethu'
             keyPassword 'HUDDGFQDDPFS22ET'
-        }
+        }*/
     }
     aaptOptions {
         cruncherEnabled = false
@@ -31,12 +31,12 @@ android {
         applicationId "com.mscore.koz_thal_kallu_chethu"
 //        versionCode = 1
 //        versionName = '1.0.0'
-        versionCode = 7
+        versionCode = 1
         versionName = '3.2.1'
     }
 
     buildTypes {
-        release {
+    /*  release  release {
             lintOptions {
                 disable 'MissingTranslation'
                 checkReleaseBuilds false
@@ -45,7 +45,7 @@ android {
             minifyEnabled false
             signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
+        }*/
         debug {
             testCoverageEnabled = true
         }

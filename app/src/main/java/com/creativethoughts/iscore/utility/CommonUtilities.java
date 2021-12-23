@@ -29,24 +29,6 @@ public final class CommonUtilities {
         throw new IllegalStateException("Illegal");
     }
 
-    private static final String BASE_URL_KEY = "iscore_base_url_key";
-private static final String BASE_URL = Common.getBaseUrl();
-    private static final String URI = Common.getApiName();
-
-
-    public static String getBaseUrl() {
-        String tempBaserUrl = PreferenceUtil.getInstance().getStringValue(BASE_URL_KEY, "");
-
-        if(TextUtils.isEmpty(tempBaserUrl.trim())) {
-            return BASE_URL;
-        }
-
-        return tempBaserUrl;
-    }
-
-    public static String getUrl() {
-            return BASE_URL + URI;
-    }
     private static Date convertStingToDate(String inputDate) {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("MM/dd/yyyy hh:mm:ss a", Locale.getDefault());
         Date date = null;
@@ -96,8 +78,6 @@ private static final String BASE_URL = Common.getBaseUrl();
         return now.getTimeInMillis() - theDay.getTimeInMillis();
     }
 
-
-
     public static String getFormatedDate(String inputDate) {
         Date date = convertStingToDate(inputDate);
 
@@ -129,12 +109,10 @@ private static final String BASE_URL = Common.getBaseUrl();
         return convetDateFormat.format(date);
     }
 
-
-
-
     public static void setAccountNumber(String accountNo, Spinner spinner, Activity activity) {
         setAccountNumber(accountNo, spinner, activity, R.layout.simple_spinner_item_dark);
     }
+
     public static void setAccountNumberPassbook(String accountNo, Spinner spinner, Activity activity) {
         setAccountNumber(accountNo, spinner, activity, R.layout.simple_spinner_item );
     }
@@ -171,6 +149,7 @@ private static final String BASE_URL = Common.getBaseUrl();
             }
         }
     }
+
     public static void transactionActivitySetAccountNumber(String accNo, Spinner spinner, Activity activity){
         if (accNo.isEmpty())
             return;

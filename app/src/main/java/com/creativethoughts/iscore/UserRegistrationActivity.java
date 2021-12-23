@@ -4,6 +4,7 @@ import android.Manifest;
 import android.app.PendingIntent;
 import android.content.Intent;
 import android.content.IntentSender;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
@@ -22,6 +23,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.viewpager.widget.ViewPager;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.adapters.LoginBannerAdapter;
 import com.creativethoughts.iscore.db.dao.UserCredentialDAO;
 import com.creativethoughts.iscore.receiver.AppSignatureHelper;
@@ -47,6 +49,11 @@ import me.relex.circleindicator.CircleIndicator;
 import static com.creativethoughts.iscore.IScoreApplication.FLAG_NETWORK_EXCEPTION;
 
 public class UserRegistrationActivity extends AppCompatActivity {
+  /*  public static final String BASE_URL="https://202.164.150.65:14264/Mscore";
+    public static final String BANK_KEY="d.22333";
+    public static final String BANK_HEADER="PERFECT SCORE BANK HEAD OFFICE";
+    public static final String HOSTNAME_SUBJECT="STATIC-VM";
+    public static final String CERTIFICATE_ASSET_NAME="mscoredemo.pem";*/
 
     private static final int MY_PERMISSIONS_REQUEST_READ_PHONE_STATE = 100;
     private static final int PHONE_FETCHING = 200;
@@ -56,6 +63,10 @@ public class UserRegistrationActivity extends AppCompatActivity {
     private static int currentPage = 0;
     private static final Integer[] XMEN= {R.drawable.banner1,R.drawable.banner2,R.drawable.banner3};
     private ArrayList<Integer> XMENArray = new ArrayList<Integer>();
+
+    static String bank_Key, bank_Header;
+    static String host_nameCommon, asset_namecommon;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -64,6 +75,13 @@ public class UserRegistrationActivity extends AppCompatActivity {
                 Manifest.permission.READ_PHONE_STATE)
                 != PackageManager.PERMISSION_GRANTED) {
             setContentView(R.layout.phone_permission_layout);
+
+
+            /*SharedPreferences baseurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
+            baseurlEditer.putString("baseurl", BASE_URL );
+            baseurlEditer.commit();*/
+
             Button mGoToSettingsBtn = findViewById(R.id.buttonOkayPhonePermission);
             assert mGoToSettingsBtn != null;
             mGoToSettingsBtn.setOnClickListener( v -> {
@@ -99,6 +117,73 @@ public class UserRegistrationActivity extends AppCompatActivity {
                 return;
             }
             setContentView(R.layout.activity_register_user);
+
+            /*SharedPreferences baseurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
+            baseurlEditer.putString("baseurl", BASE_URL );
+            baseurlEditer.commit();
+            SharedPreferences bankkeySP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+            SharedPreferences.Editor bankkeyEditer = bankkeySP.edit();
+            bankkeyEditer.putString("bankkey", BANK_KEY);
+            bankkeyEditer.commit();
+            SharedPreferences bankheaderSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+            SharedPreferences.Editor bankheaderEditer = bankheaderSP.edit();
+            bankheaderEditer.putString("bankheader", BANK_HEADER);
+            bankheaderEditer.commit();
+            SharedPreferences hostnameSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0);
+            SharedPreferences.Editor hostnameEditer = hostnameSP.edit();
+            hostnameEditer.putString("hostname", HOSTNAME_SUBJECT);
+            hostnameEditer.commit();
+            SharedPreferences assetnameSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+            SharedPreferences.Editor assetnameEditer = assetnameSP.edit();
+            assetnameEditer.putString("certificateassetname", CERTIFICATE_ASSET_NAME);
+            assetnameEditer.commit();*/
+
+            SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF14, 0);
+            String strloginmobile=pref.getString("LoginMobileNo", null);
+
+            SharedPreferences TestMobileNoSP =getApplicationContext().getSharedPreferences(Config.SHARED_PREF15, 0);
+            String strTestmobile=TestMobileNoSP.getString("TestingMobileNo", null);
+
+            if(strloginmobile == null || strloginmobile.isEmpty()) {
+
+                SharedPreferences bankkeypref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+                bank_Key=bankkeypref.getString("bankkey", null);
+                SharedPreferences bankheaderpref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+                bank_Header=bankheaderpref.getString("bankheader", null);
+
+                SharedPreferences hostnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0);
+                host_nameCommon=hostnamepref.getString("hostname", null);
+                SharedPreferences assetnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+                asset_namecommon=assetnamepref.getString("certificateassetname", null);
+            }
+            else {
+                if (strTestmobile.equals(strloginmobile)) {
+
+                    SharedPreferences bankkeypref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF19, 0);
+                    bank_Key=bankkeypref.getString("testbankkey", null);
+                    SharedPreferences bankheaderpref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF20, 0);
+                    bank_Header=bankheaderpref.getString("testbankheader", null);
+
+                    SharedPreferences hostnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF21, 0);
+                    host_nameCommon=hostnamepref.getString("testhostname", null);
+                    SharedPreferences assetnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF22, 0);
+                    asset_namecommon=assetnamepref.getString("testcertificateassetname", null);
+                }
+                else {
+
+                    SharedPreferences bankkeypref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+                    bank_Key=bankkeypref.getString("bankkey", null);
+                    SharedPreferences bankheaderpref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+                    bank_Header=bankheaderpref.getString("bankheader", null);
+
+                    SharedPreferences hostnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0);
+                    host_nameCommon=hostnamepref.getString("hostname", null);
+                    SharedPreferences assetnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+                    asset_namecommon=assetnamepref.getString("certificateassetname", null);
+
+                }
+            }
             mMobileNumberET = findViewById(R.id.phoneno);
             init();
             queryPhoneNumber();
@@ -181,9 +266,70 @@ public class UserRegistrationActivity extends AppCompatActivity {
         Button mRegisterBtn = findViewById(R.id.btnRegister);
         assert mRegisterBtn != null;
         mRegisterBtn.setOnClickListener(arg0 -> {
+            SharedPreferences TestMobileNoSP =getApplicationContext().getSharedPreferences(Config.SHARED_PREF15, 0);
+            String strTestmobile=TestMobileNoSP.getString("TestingMobileNo", null);
             String mobileNumber = mMobileNumberET.getText().toString();
+            String BASE_URL;
 
             String countryCode = "91"; // Need to change this hard coded value.
+
+            if(strTestmobile.equals(mobileNumber)){
+
+                SharedPreferences pref11 =getApplicationContext().getSharedPreferences(Config.SHARED_PREF16, 0);
+                String base_url11=pref11.getString("testbaseurl", null);
+                SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF17, 0);
+                String base_url=pref.getString("testoldbaseurl", null);
+                SharedPreferences imgpref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF18, 0);
+                String image_url=imgpref.getString("testimageurl", null);
+                SharedPreferences bankkeypref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF19, 0);
+                String bank_Key=bankkeypref.getString("testbankkey", null);
+                SharedPreferences bankheaderpref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF20, 0);
+                String bank_Header=bankheaderpref.getString("testbankheader", null);
+                SharedPreferences hostnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF21, 0);
+                String Hostname=hostnamepref.getString("testhostname", null);
+                SharedPreferences assetnamepref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF22, 0);
+                String SSLAssetname=assetnamepref.getString("testcertificateassetname", null);
+
+
+                SharedPreferences baseurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                SharedPreferences.Editor baseurlEditer = baseurlSP.edit();
+                baseurlEditer.putString("baseurl", base_url11);
+                baseurlEditer.commit();
+                SharedPreferences oldbaseurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF8, 0);
+                SharedPreferences.Editor oldbaseurlEditer = oldbaseurlSP.edit();
+                oldbaseurlEditer.putString("oldbaseurl", base_url);
+                oldbaseurlEditer.commit();
+                SharedPreferences imageurlSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF13, 0);
+                SharedPreferences.Editor imageurlEditer = imageurlSP.edit();
+                imageurlEditer.putString("imageurl", image_url);
+                imageurlEditer.commit();
+                SharedPreferences bankkeySP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+                SharedPreferences.Editor bankkeyEditer = bankkeySP.edit();
+                bankkeyEditer.putString("bankkey", bank_Key);
+                bankkeyEditer.commit();
+                SharedPreferences bankheaderSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+                SharedPreferences.Editor bankheaderEditer = bankheaderSP.edit();
+                bankheaderEditer.putString("bankheader", bank_Header);
+                bankheaderEditer.commit();
+                SharedPreferences host_nameSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0);
+                SharedPreferences.Editor host_nameEditer = host_nameSP.edit();
+                host_nameEditer.putString("hostname", Hostname);
+                host_nameEditer.commit();
+                SharedPreferences asset_nameSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+                SharedPreferences.Editor asset_nameEditer = asset_nameSP.edit();
+                asset_nameEditer.putString("certificateassetname", SSLAssetname);
+                asset_nameEditer.commit();
+
+                SharedPreferences pref1 =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                BASE_URL=pref1.getString("baseurl", null);
+
+            }
+            else{
+
+
+                SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                BASE_URL=pref.getString("baseurl", null);
+            }
 
             if(mobileNumber.equalsIgnoreCase("124567")) {
 
@@ -199,9 +345,18 @@ public class UserRegistrationActivity extends AppCompatActivity {
             else {
                 if (NetworkUtil.isOnline()) {
 
+                    bank_Key = getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0).getString("bankkey", null);
+                    bank_Header =getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0).getString("bankheader", null);
+
+                    host_nameCommon = getApplicationContext().getSharedPreferences(Config.SHARED_PREF23, 0).getString("hostname", null);
+                    asset_namecommon =getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0).getString("certificateassetname", null);
+                    //asset_namecommon ="testmscore.pem";
+
+                 /*   SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                    String BASE_URL=pref.getString("baseurl", null);*/
                     try{
                         String url =
-                                CommonUtilities.getUrl() + "/PassBookAuthenticate?Mobno="+
+                                BASE_URL+ "/api/MV3"+"/PassBookAuthenticate?Mobno="+
                                         IScoreApplication.encodedUrl(IScoreApplication.encryptStart(countryCode+mobileNumber)) + "&Pin=" +
                                         IScoreApplication.encodedUrl(IScoreApplication.encryptStart("0000"))+"&IMEI=";
 //                                        +"&IMEI="+IScoreApplication.encodedUrl(IScoreApplication.encryptStart("123456789"));
@@ -392,6 +547,38 @@ public class UserRegistrationActivity extends AppCompatActivity {
                     mMobileNumberET.setText(  phoneNum );
                 }
             }
+        }
+    }
+
+    public static String getBankkey() {
+        try {
+            return bank_Key;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
+        }
+    }
+
+    public static String getBankheader() {
+        try {
+            return bank_Header;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
+        }
+    }
+
+    public static String getHostnameSubject() {
+        try {
+            return host_nameCommon;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
+        }
+    }
+
+    public static String getCertificateAssetName() {
+        try {
+            return asset_namecommon;
+        }catch (Exception e){
+            return IScoreApplication.EXCEPTION_NOIEMI;
         }
     }
 

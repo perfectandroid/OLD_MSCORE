@@ -94,8 +94,10 @@ public class RecieveAndValidateOTP extends Activity implements MySMSBroadcastRec
                     mSweetAlertDialog.setCancelable( false );
                     mSweetAlertDialog.show();
                     String otp = mEtVerificationCode.getText().toString();
+                    SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                    String BASE_URL=pref.getString("baseurl", null);
                     final String url =
-                            CommonUtilities.getUrl() + "/VerifyOTP?" +
+                            BASE_URL+ "/api/MV3" + "/VerifyOTP?" +
                                     "Mobno=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(userCredential.countryCode +
                                     userCredential.mobileNumber ))+
                                     "&OTP=" +  IScoreApplication.encodedUrl(IScoreApplication.encryptStart( otp )) +
@@ -265,6 +267,14 @@ public class RecieveAndValidateOTP extends Activity implements MySMSBroadcastRec
          Date date = Calendar.getInstance().getTime();
          SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy HH:mm a");
          String formattedDate = df.format(date);
+
+        UserCredential userCredential = UserCredentialDAO.getInstance().getLoginCredential();
+        String strMobileNo =userCredential.mobileNumber;
+
+        SharedPreferences TestingMobileNoSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF14, 0);
+        SharedPreferences.Editor TestingMobileNoEditer = TestingMobileNoSP.edit();
+        TestingMobileNoEditer.putString("LoginMobileNo", strMobileNo);
+        TestingMobileNoEditer.commit();
 
          SharedPreferences loginSP = getApplicationContext().getSharedPreferences(Config.SHARED_PREF, 0);
                                       SharedPreferences.Editor loginEditer = loginSP.edit();

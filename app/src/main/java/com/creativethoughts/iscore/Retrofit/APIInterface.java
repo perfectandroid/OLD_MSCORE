@@ -13,52 +13,55 @@ import retrofit2.http.POST;
 
 public interface APIInterface {
 
-    @POST("Mscore/api/Image/CustomerImageDets")
+    @POST("api/Image/CustomerImageDets")
     Call<String> getImage(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/AccountSummaryDetails")
+    @POST("api/AccountSummary/AccountSummaryDetails")
     Call<String> getCustomerModules(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/AccountModuleDetailsListInfo")
+    @POST("api/AccountSummary/AccountModuleDetailsListInfo")
     Call<String> getAccountSummary(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/StandingInstructionDetails")
+    @POST("api/AccountSummary/StandingInstructionDetails")
     Call<String> getStandingInstruction(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/NoticePostingDetails")
+    @POST("api/AccountSummary/NoticePostingDetails")
     Call<String> getIntimations(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/DashBoardAssetsDataDetails")
+    @POST("api/AccountSummary/DashBoardAssetsDataDetails")
     Call<String> getDashboard(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/DashBoardLaibilityDataDetails")
+    @POST("api/AccountSummary/DashBoardLaibilityDataDetails")
     Call<String> getDashboardLaibility(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/DashBoardDataSavingsBankDetails")
+    @POST("api/AccountSummary/DashBoardDataSavingsBankDetails")
     Call<String> getDashboardSavingsbank(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/DashBoardDataPaymentAndReceiptDetails")
+    @POST("api/AccountSummary/DashBoardDataPaymentAndReceiptDetails")
     Call<String> getDashboardpaymentrecept(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/BranchLocationDetails")
+    @POST("api/AccountSummary/BranchLocationDetails")
     Call<String> getBankLocation(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/BankBranchDetails")
+    @POST("api/AccountSummary/BankBranchDetails")
     Call<String> getBranchDetail(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/CustomerBankDetails")
+    @POST("api/AccountSummary/CustomerBankDetails")
     Call<String> getBankbranchList(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/CustomerProfileDetails")
+    @POST("api/AccountSummary/CustomerProfileDetails")
     Call<String> getProfile(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/AccountDueDateDetails")
+    @POST("api/AccountSummary/AccountDueDateDetails")
     Call<String> getDuedate(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/BarcodeFormatDet")
+    @POST("api/AccountSummary/BarcodeFormatDet")
     Call<String> getBardCodeData(@Body RequestBody body);
 
-    @POST("Mscore/api/AccountSummary/BarcodeAgainstCustomerAccountDets")
+    @POST("api/AccountSummary/BarcodeAgainstCustomerAccountDets")
     Call<String>getAccountList(@Body RequestBody body);
+
+    @POST("api/AccountSummary/ResellerDetails")
+    Call<String> getResellerDetails(@Body RequestBody body);
 
 }

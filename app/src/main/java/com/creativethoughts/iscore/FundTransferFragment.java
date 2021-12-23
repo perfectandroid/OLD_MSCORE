@@ -9,6 +9,7 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.text.Editable;
@@ -38,6 +39,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.creativethoughts.iscore.Helper.Common;
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.Retrofit.APIInterface;
 import com.creativethoughts.iscore.adapters.AccountSummaryAdapter;
 import com.creativethoughts.iscore.adapters.CustomListAdapter;
@@ -639,6 +641,8 @@ public class FundTransferFragment extends Fragment implements View.OnClickListen
 
     private void getCustomerAccount(AlertDialog alertDialog, String value, String submodule) {
 
+        SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+        String BASE_URL=pref.getString("baseurl", null);
         if (NetworkUtil.isOnline()) {
             try{
                 progressDialog = new ProgressDialog(getActivity(), R.style.Progress);
@@ -656,7 +660,7 @@ public class FundTransferFragment extends Fragment implements View.OnClickListen
                         .setLenient()
                         .create();
                 Retrofit retrofit = new Retrofit.Builder()
-                        .baseUrl(Common.getBaseUrl())
+                        .baseUrl(BASE_URL+"/")
                         .addConverterFactory(ScalarsConverterFactory.create())
                         .addConverterFactory(GsonConverterFactory.create(gson))
                         .client(client)
@@ -695,8 +699,12 @@ public class FundTransferFragment extends Fragment implements View.OnClickListen
                     requestObject1.put("SubModule",IScoreApplication.encryptStart(type) );
                     requestObject1.put("ModuleCode",IScoreApplication.encryptStart(submodule) );
                     requestObject1.put("FK_Customer",IScoreApplication.encryptStart(cusid));
-                    requestObject1.put("BankKey",IScoreApplication.encryptStart(getResources().getString(R.string.BankKey)));
-                    requestObject1.put("BankHeader",IScoreApplication.encryptStart(getResources().getString(R.string.BankHeader)));
+                    SharedPreferences bankkeypref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF9, 0);
+                    String BankKey=bankkeypref.getString("bankkey", null);
+                    SharedPreferences bankheaderpref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF11, 0);
+                    String BankHeader=bankheaderpref.getString("bankheader", null);
+                    requestObject1.put("BankKey",IScoreApplication.encryptStart(BankKey));
+                    requestObject1.put("BankHeader",IScoreApplication.encryptStart(BankHeader));
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
@@ -875,9 +883,11 @@ public class FundTransferFragment extends Fragment implements View.OnClickListen
         final String tempToAccNo = receiverAccNo +"("+ type +")";
         /*End of Extract account number*/
 
+        SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+        String BASE_URL=pref.getString("baseurl", null);
         try{
             String url =
-                    CommonUtilities.getUrl() + "/FundTransferIntraBank?AccountNo="
+                    BASE_URL+ "/api/MV3"+ "/FundTransferIntraBank?AccountNo="
                             + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(accountNo))
                             + "&Module=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(accountType))
                             + "&ReceiverModule=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(type))
@@ -1079,11 +1089,13 @@ public class FundTransferFragment extends Fragment implements View.OnClickListen
             throws CertificateException, KeyStoreException, IOException,
             NoSuchAlgorithmException,
             KeyManagementException {
+        SharedPreferences sslnamepref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF24, 0);
+        String asset_Name=sslnamepref.getString("certificateassetname", null);
         CertificateFactory cf = CertificateFactory.getInstance("X.509");
         //  InputStream caInput = getResources().openRawResource(Common.getCertificateAssetName());
         // File path: app\src\main\res\raw\your_cert.cer
         InputStream caInput =  IScoreApplication.getAppContext().
-                getAssets().open(Common.getCertificateAssetName());
+                getAssets().open(asset_Name);
         Certificate ca = cf.generateCertificate(caInput);
         caInput.close();
         KeyStore keyStore = KeyStore.getInstance("BKS");

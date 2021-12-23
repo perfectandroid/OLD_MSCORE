@@ -32,6 +32,7 @@ import androidx.core.content.FileProvider;
 import com.coolerfall.download.DownloadListener;
 import com.coolerfall.download.DownloadManager;
 import com.coolerfall.download.DownloadRequest;
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.adapters.NewAccountExpandableListAdapter;
 import com.creativethoughts.iscore.db.dao.PBAccountInfoDAO;
 import com.creativethoughts.iscore.db.dao.UserCredentialDAO;
@@ -281,8 +282,11 @@ public class SearchResultActivity extends AppCompatActivity {
 
                 String IDDemandDeposit = accountInformation.fkDemandDepositID;
                 String url;
+
+                SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                String BASE_URL=pref.getString("baseurl", null);
                 try {
-                    url = CommonUtilities.getUrl() + "/GenerateStatementOfAccount?" +
+                    url =  BASE_URL+ "/api/MV3" + "/GenerateStatementOfAccount?" +
                             "Module=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(accountType)) +
                             "&FromDate=" +IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mFromDate))  +
                             "&ToDate=" +IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mToDate))  +
@@ -291,7 +295,7 @@ public class SearchResultActivity extends AppCompatActivity {
                             "&IDDemandDeposit=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(IDDemandDeposit));
                 } catch (Exception e) {
 
-                    url = CommonUtilities.getUrl() + "/GenerateStatementOfAccount";
+                    url =  BASE_URL+ "/api/MV3"+ "/GenerateStatementOfAccount";
                 }
 
 //                Log.d(TAG, "onOptionsItemSelected: " + url);
@@ -474,8 +478,10 @@ public class SearchResultActivity extends AppCompatActivity {
                 String IDDemandDeposit = accountInformation.fkDemandDepositID;
                 String accountType = accountInformation.accountTypeShort;
 
+                SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                String BASE_URL=pref.getString("baseurl", null);
                 final String url =
-                        CommonUtilities.getUrl() +
+                        BASE_URL+ "/api/MV3"+
                                 "/TransactionSearch?Module="+IScoreApplication.encodedUrl(IScoreApplication.encryptStart(accountType))+
                                 "&TransType=" +IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mTransType))  +
                                 "&FromAmount=" +IScoreApplication.encodedUrl(IScoreApplication.encryptStart(mMinAmt))  +
@@ -692,6 +698,8 @@ public class SearchResultActivity extends AppCompatActivity {
             }
 
             try {
+                SharedPreferences pref =getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                String BASE_URL=pref.getString("baseurl", null);
                 JSONObject jsonObject = new JSONObject(text);
 
                 JSONArray statementOfAccountsArray = jsonObject.optJSONArray("StatementOfAccounts");
@@ -703,7 +711,7 @@ public class SearchResultActivity extends AppCompatActivity {
                         String url = firstItem.optString("FilePath");
 
                         if (!TextUtils.isEmpty(url)) {
-                            url = CommonUtilities.getBaseUrl() + "/" + url;
+                            url =  BASE_URL+ "/api/MV3" + "/" + url;
 
 //                            System.out.println("url : " + url);
 

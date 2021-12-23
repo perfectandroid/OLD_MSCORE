@@ -3,6 +3,7 @@ package com.creativethoughts.iscore;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.net.Uri;
 import android.os.Bundle;
@@ -27,6 +28,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.widget.AppCompatEditText;
 import androidx.fragment.app.Fragment;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.adapters.OperatorSpinnerAdapter;
 import com.creativethoughts.iscore.custom_alert_dialogs.KeyValuePair;
 import com.creativethoughts.iscore.custom_alert_dialogs.AlertMessageFragment;
@@ -470,9 +472,11 @@ public class RechargeFragment extends Fragment implements View.OnClickListener {
         try {
 
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             UserCredential loginCredential = UserCredentialDAO.getInstance().getLoginCredential();
 
-            String url = CommonUtilities.getUrl();
+            String url =  BASE_URL+ "/api/MV3";
 
             mAccountNumber = mAccountNumber.replace(mAccountNumber.substring(mAccountNumber.indexOf(" (")+1, mAccountNumber.indexOf(')')+1), "");
             mAccountNumber = mAccountNumber.replace(" ","");

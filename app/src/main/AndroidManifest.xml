@@ -164,17 +164,6 @@
             android:name=".TransactionDetailActivity"
             android:theme="@style/HomeActivityTheme" />
         <activity
-            android:name=".UserRegistrationActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
             android:name=".SearchResultActivity"
             android:label="@string/title_activity_search_result"
             android:parentActivityName=".HomeActivity"
@@ -235,8 +224,21 @@
             android:theme="@style/PinLoginActivityTheme" />
         <activity android:name=".neftrtgs.NeftRtgsOtpActivity" />
         <activity
-            android:name=".SplashScreen"
+            android:name=".UserRegistrationActivity"
             android:theme="@style/AppTheme.NoActionBar" />
+
+
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".QRcodegeneartionActivity" />
         <activity android:name=".BarcodegenerationActivity" />
     </application>

@@ -2,6 +2,7 @@ package com.creativethoughts.iscore.money_transfer;
 
 
 import android.app.DatePickerDialog;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.text.InputFilter;
@@ -16,6 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.widget.AppCompatEditText;
 import androidx.fragment.app.Fragment;
 
+import com.creativethoughts.iscore.Helper.Config;
 import com.creativethoughts.iscore.IScoreApplication;
 import com.creativethoughts.iscore.R;
 import com.creativethoughts.iscore.TransactionOTPFragment;
@@ -223,6 +225,8 @@ public class AddSenderFragment extends Fragment implements View.OnClickListener 
 
             @Override
             public void onNext(AddSenderReceiverResponseModel addSenderResponseModel ) {
+                SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+                String BASE_URL=pref.getString("baseurl", null);
                 if ( mSweetAlertDialog != null )
                     mSweetAlertDialog.dismissWithAnimation();
                 if ( getContext() == null || getActivity() == null )
@@ -241,7 +245,7 @@ public class AddSenderFragment extends Fragment implements View.OnClickListener 
 
                     }
                     else if ( !addSenderResponseModel.getOtpRefNo().equals("0") && addSenderResponseModel.getStatusCode().equals("200") ){
-                        String mOtpResendLink = CommonUtilities.getUrl() + "/MTResendSenderOTP?senderid=" + IScoreApplication.encodedUrl(addSenderResponseModel.getIdSender());
+                        String mOtpResendLink =  BASE_URL+ "/api/MV3" + "/MTResendSenderOTP?senderid=" + IScoreApplication.encodedUrl(addSenderResponseModel.getIdSender());
                         TransactionOTPFragment.openSenderOTP( getActivity(),   addSenderResponseModel , mOtpResendLink, true);
                         getActivity().finish();
                     }
@@ -281,6 +285,8 @@ public class AddSenderFragment extends Fragment implements View.OnClickListener 
 
         try {
 
+            SharedPreferences pref =getActivity().getApplicationContext().getSharedPreferences(Config.SHARED_PREF7, 0);
+            String BASE_URL=pref.getString("baseurl", null);
             UserDetails user = UserDetailsDAO.getInstance().getUserDetail();
 
             String custId = user.customerId;
@@ -291,7 +297,7 @@ public class AddSenderFragment extends Fragment implements View.OnClickListener 
             mobileNumber = mobileNumber.trim();
 
             String url =
-                    CommonUtilities.getUrl() + "/MTAddnewsender?sender_fname="
+                    BASE_URL+ "/api/MV3" + "/MTAddnewsender?sender_fname="
                             + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(firstName))
                             + "&IDCustomer=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(custId))
                             + "&sender_lname=" + IScoreApplication.encodedUrl(IScoreApplication.encryptStart(lastName))
